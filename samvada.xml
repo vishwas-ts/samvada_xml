@@ -2,80 +2,80 @@
 <!DOCTYPE samvada SYSTEM "samvada.dtd">
 <samvada>
 	<volume vnum="002">
-		<entry>
-			<title>ತೇಜಸ್ವಿ ಸಂದರ್ಶನ</title>
-			<feature></feature>
-			<page>0001-0006</page>
-			<allauthors>
-				<author>ಶಿವಾನಂದ ಬೇಕಲ್</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಗೀತಾಂಜಲಿ : ಸಾವಿನ ಬೊಗಸೆಯಲ್ಲಿ ಹೂಬಿಟ್ಟ ಕಾವ್ಯ</title>
-			<feature></feature>
-			<page>0007-0020</page>
-			<allauthors>
-				<author>ಶಾಂತ ಬಿ. ಎನ್ </author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಸಿಸಿರೊ</title>
-			<feature></feature>
-			<page>0021-0037</page>
-			<allauthors>
-				<author>ಪ್ರಭು ಎಂ. ಎಸ್. ಕೆ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ನಾನೇಕೆ ಅಮೇರಿಕಾ ಬಿಟ್ಟು ಬಂದೆ?</title>
-			<feature></feature>
-			<page>0038-0047</page>
-			<allauthors>
-				<author>ನಾಗರಾಜ ಎ. ಎನ್. ಡಾ||</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಶ್ರೀಕ್ಲಾಸನ್‌ರಿಗೊಂದು ಬಹಿರಂಗ ಪತ್ರ</title>
-			<feature></feature>
-			<page>0048-0062</page>
-			<allauthors>
-				<author>ಎಡ್ವರ್ಡ್ ಗೋಲ್ಡಸ್ಮಿತ್ </author>
-				<author>ಯಶವಂತಡೋಂಗ್ರೆ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ನನ್ನ ಕೃತಿಗಳು ಮತ್ತು ಕನ್ನಡ ಕಾದಂಬರಿ ಪರಂಪರೆ</title>
-			<feature></feature>
-			<page>0063-0070</page>
-			<allauthors>
-				<author>ಅನುಪಮಾ ನಿರಂಜನ ಡಾ||</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ನಂಬಿಕೆಗಳು</title>
-			<feature>ಹೊಸಓದು</feature>
-			<page>0071-0073</page>
-			<allauthors>
-				<author>ಬಸವರಾಜು ಜಿ. ಪಿ </author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಅಂಕ</title>
-			<feature></feature>
-			<page>0074-0077</page>
-			<allauthors>
-				<author>ಶ್ರೀನಿವಾಸಪ್ರಸಾದ್</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</title>
-			<feature></feature>
-			<page>0078-0080</page>
-			<allauthors>
-				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
-			</allauthors>
-		</entry>
-	</volume>
+ 		<entry>
+ 			<title>ತೇಜಸ್ವಿ ಸಂದರ್ಶನ</title>
+ 			<feature></feature>
+ 			<page>0001-0006</page>
+ 			<allauthors>
+ 				<author>ಶಿವಾನಂದ ಬೇಕಲ್</author>
+ 			</allauthors>
+ 		</entry>
+ 		<entry>
+ 			<title>ಗೀತಾಂಜಲಿ : ಸಾವಿನ ಬೊಗಸೆಯಲ್ಲಿ ಹೂಬಿಟ್ಟ ಕಾವ್ಯ</title>
+ 			<feature></feature>
+ 			<page>0007-0020</page>
+ 			<allauthors>
+ 				<author>ಶಾಂತ ಬಿ. ಎನ್</author>
+ 			</allauthors>
+ 		</entry>
+ 		<entry>
+ 			<title>ಸಿಸಿರೊ</title>
+ 			<feature></feature>
+ 			<page>0021-0037</page>
+ 			<allauthors>
+ 				<author>ಪ್ರಭು ಎಂ. ಎಸ್. ಕೆ</author>
+ 			</allauthors>
+ 		</entry>
+ 		<entry>
+ 			<title>ನಾನೇಕೆ ಅಮೇರಿಕಾ ಬಿಟ್ಟು ಬಂದೆ?</title>
+ 			<feature></feature>
+ 			<page>0038-0047</page>
+ 			<allauthors>
+ 				<author>ನಾಗರಾಜ ಎ. ಎನ್. ಡಾ||</author>
+ 			</allauthors>
+ 		</entry>
+ 		<entry>
+ 			<title>ಶ್ರೀಕ್ಲಾಸನ್‌ರಿಗೊಂದು ಬಹಿರಂಗ ಪತ್ರ</title>
+ 			<feature></feature>
+ 			<page>0048-0062</page>
+ 			<allauthors>
+ 				<author>ಎಡ್ವರ್ಡ್ ಗೋಲ್ಡಸ್ಮಿತ್ </author>
+ 				<author>ಯಶವಂತ ಡೋಂಗ್ರೆ</author>
+ 			</allauthors>
+ 		</entry>
+ 		<entry>
+ 			<title>ನನ್ನ ಕೃತಿಗಳು ಮತ್ತು ಕನ್ನಡ ಕಾದಂಬರಿ ಪರಂಪರೆ</title>
+ 			<feature></feature>
+ 			<page>0063-0070</page>
+ 			<allauthors>
+ 				<author>ಅನುಪಮಾ ನಿರಂಜನ ಡಾ||</author>
+ 			</allauthors>
+ 		</entry>
+ 		<entry>
+ 			<title>ನಂಬಿಕೆಗಳು</title>
+ 			<feature>ಹೊಸಓದು</feature>
+ 			<page>0071-0073</page>
+ 			<allauthors>
+ 				<author>ಬಸವರಾಜು ಜೆ. ಪಿ </author>
+ 			</allauthors>
+ 		</entry>
+ 		<entry>
+ 			<title>ಅಂಕ</title>
+ 			<feature></feature>
+ 			<page>0074-0077</page>
+ 			<allauthors>
+ 				<author>ಶ್ರೀನಿವಾಸ ಪ್ರಸಾದ್</author>
+ 			</allauthors>
+ 		</entry>
+ 		<entry>
+ 			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</title>
+ 			<feature></feature>
+ 			<page>0078-0080</page>
+ 			<allauthors>
+ 				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
+ 			</allauthors>
+ 		</entry>
+ 	</volume>
 	<volume vnum="004">
 		<entry>
 			<title>ಗಾಂಧಿ ಗ್ರಹಿಸಿದ ಧರ್ಮ ಮತ್ತು ರಶಜಕಾರಣ</title>
@@ -108,7 +108,7 @@
 			<page>0021-0029</page>
 			<allauthors>
 				<author>ಗುಂಟೂರು ಶೇಷೇಂದ್ರ ಶರ್ಮ</author>
-				<author>ಸ ರಘುನಾಥ</author>
+				<author>ರಘುನಾಥ ಸ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -116,7 +116,7 @@
 			<feature>ದಲಿತಸಾಹಿತ್ಯ</feature>
 			<page>0030-0044</page>
 			<allauthors>
-				<author>ಪುರುಷೋತ್ತಮ ಬಳಿಮಲೆ</author>
+				<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -125,7 +125,7 @@
 			<page>0045-0058</page>
 			<allauthors>
 				<author>ಅಲ್ವಿನ್ ಟಾಫ್ಲರ್</author>
-				<author>ಅಣಜಿ ಸೀ. ಆರ್ </author>
+				<author>ಅಣಜಿ ಸಿ. ಆರ್ </author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -157,7 +157,7 @@
 			<feature>ಹೊಸ ಓದು</feature>
 			<page>0065-0070</page>
 			<allauthors>
-				<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ</author>
+				<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ ಸಿ. ವಿ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -215,7 +215,7 @@
 			<feature></feature>
 			<page>0045-0048</page>
 			<allauthors>
-				<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ</author>
+				<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -329,7 +329,7 @@
 			<feature></feature>
 			<page>0033-0038</page>
 			<allauthors>
-				<author>ವೆಂಕಟೇಶಮೂರ್ತಿ ಎಚ್. ಎಸ್ ಡಾ||</author>
+				<author>ವೆಂಕಟೇಶ ಮೂರ್ತಿ ಎಚ್. ಎಸ್ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -361,7 +361,7 @@
 			<feature></feature>
 			<page>0057-0064</page>
 			<allauthors>
-				<author>ಚಿಂದಬರರಾವ್‌ ಎನ್ ಎಸ್</author>
+				<author>ಚಿದಂಬರರಾವ್‌ ಎನ್. ಎಸ್</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -395,7 +395,7 @@
 			<allauthors>
 				<author>ಸಂಪಾದಕ</author>
 			</allauthors>
-		</entry>
+		</entry>	
 	</volume>
 	<volume vnum="013">
 		<entry>
@@ -404,7 +404,7 @@
 			<page>0001-0019</page>
 			<allauthors>
 				<author>ರಾಂಮನೋಹರ ಲೋಹಿಯ</author>
-				<author>ವೀರಭದ್ರಪ್ಪ ಬಿ.ವಿ</author>
+				<author>ವೀರಭದ್ರಪ್ಪ ಬಿ. ವಿ ಪ್ರೊ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -413,20 +413,20 @@
 			<page>0020-0032</page>
 			<allauthors>
 				<author>ಶೂಮೇಕರ್ ಇ. ಎಫ್</author>
-				<author>ಚಂದ್ರಶೇಖರತಾಳ್ಯ</author>
-			</allauthors>
-    </entry
-			>
-		<entry>
+				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
+  </allauthors>
+</entry
+		>
+<entry>
 			<title>ಅಮ್ಮನ ನೆನಪು.</title>
 			<feature>ಕವಿತೆ</feature>
 			<page>0033-0034</page>
 			<allauthors>
 				<author>ಯಶವಂತ ಚಿತ್ತಾಲ</author>
-			</allauthors>
-    </entry 
-			>
-		<entry>
+  </allauthors>
+</entry 
+		>
+<entry>
 			<title>ಕಡಲಾಳ</title>
 			<feature>ಕವಿತೆ</feature>
 			<page>0035-0037</page>
@@ -463,10 +463,11 @@
 			<feature></feature>
 			<page>0046-0056</page>
 			<allauthors>
-				<author>ಬೆಟಗೇರಿ ಕೃಷ್ಣಶರ್ಮ ಡಾ||(ಆನಂದಕಂದ)</author>
-			</allauthors>
-		</entry>
-		<entry>
+				<author>ಬೆಟಗೇರಿ ಕೃಷ್ಣಶರ್ಮ ಡಾ|| (ಆನಂದಕಂದ)</author>
+  </allauthors>
+</entry
+		>
+<entry>
 			<title>"ಕೌನ್‌ ಕಹತಾ ಹೈ ತುಝೆ ಮೈನೆ ಭುಲಾ ರಖಾ ಹೈ?" ಯಾರು ಹೇಳುತ್ತಾರೆ ನಾ ನಿನ್ನ ಮರೆತಿದ್ದೇನೆಂದು?</title>
 			<feature></feature>
 			<page>0057-0063</page>
@@ -488,7 +489,7 @@
 			<feature>ಹೊಸಓದು</feature>
 			<page>0069-0072</page>
 			<allauthors>
-				<author>ಅನುಪಮಾ ನಿರಂಜನ</author>
+				<author>ಅನುಪಮಾ ನಿರಂಜನ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -530,7 +531,7 @@
 			<feature>ಸೃಜನಶೀಲತೆ ಮತ್ತು ಬಂಡಾಯ</feature>
 			<page>0029-0034</page>
 			<allauthors>
-				<author>ಶಿವರಾಮ ಕಾರಂತ  ಕೆ ಡಾ||</author>
+				<author>ಶಿವರಾಮ ಕಾರಂತ ಕೆ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -546,7 +547,7 @@
 			<feature></feature>
 			<page>0045-0047</page>
 			<allauthors>
-				<author>ದೇವನೂರ ಮಹದೇವ</author>
+				<author>ದೇವನೂರ ಮಹಾದೇವ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -554,7 +555,7 @@
 			<feature></feature>
 			<page>0048-0057</page>
 			<allauthors>
-				<author>ಆನಂದ ಕಂದ</author>
+				<author>ಆನಂದಕಂದ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -621,7 +622,7 @@
 			<feature></feature>
 			<page>0054-0059</page>
 			<allauthors>
-				<author>ಆನಂದ ಕಂದ</author>
+				<author>ಆನಂದಕಂದ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -671,7 +672,7 @@
 			<feature></feature>
 			<page>0013-0030</page>
 			<allauthors>
-				<author>ಖುರ್ರಾತುಲ್ ಹೈದರ್</author>
+				<author>ಖುರ್ರಾತುಲ್‌ ಹೈದರ್</author>
 				<author>ಬಾನು ಮುಷ್ತಾಕ್</author>
 			</allauthors>
 		</entry>
@@ -688,7 +689,7 @@
 			<feature></feature>
 			<page>0052-0059</page>
 			<allauthors>
-				<author>ಪ್ರಭುಸ್ವಾಮಿಮಠ</author>
+				<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -746,7 +747,7 @@
 			<feature></feature>
 			<page>0003-0005</page>
 			<allauthors>
-				<author>ಎಸ್ ಮಂಜುನಾಥ</author>
+				<author>ಮಂಜುನಾಥ ಎಸ್</author>
 				<author>ಲಾವೋತ್ಸೆ</author>
 			</allauthors>
 		</entry>
@@ -755,7 +756,7 @@
 			<feature></feature>
 			<page>0006-0008</page>
 			<allauthors>
-				<author>ಚುವಾಂಗ್‌ತ್ಸೆ</author>
+				<author>ಚುವಾಂಗ್ ‌ತ್ಸೆ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -771,7 +772,7 @@
 			<feature></feature>
 			<page>0022-0024</page>
 			<allauthors>
-				<author>ವೆಂಕಟೇಶಮೂರ್ತಿ</author>
+				<author>ವೆಂಕಟೇಶ ಮೂರ್ತಿ ಎಚ್. ಎಸ್ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -812,7 +813,7 @@
 			<feature></feature>
 			<page>0048-0058</page>
 			<allauthors>
-				<author>ಆನಂದ ಕಂದ </author>
+				<author>ಆನಂದಕಂದ </author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -828,7 +829,7 @@
 			<feature></feature>
 			<page>0063-0067</page>
 			<allauthors>
-				<author>ಆನಂದ ಝಂಝುರವಾಡ</author>
+				<author>ಆನಂದ ಝಂಜರವಾಡ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -862,7 +863,7 @@
 			<feature></feature>
 			<page>0003-0007</page>
 			<allauthors>
-				<author>ದಿವಾಕರ್ ಎಸ್</author>
+				<author>ದಿವಾಕರ ಎಸ್</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1094,7 +1095,7 @@
 			<feature></feature>
 			<page>0019-0028</page>
 			<allauthors>
-				<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ</author>
+				<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1142,7 +1143,7 @@
 			<feature></feature>
 			<page>0088-0104</page>
 			<allauthors>
-				<author>ವಿ.ಚಂದ್ರಶೇಖರ ನಂಗಲಿ</author>
+				<author>ಚಂದ್ರಶೇಖರ ನಂಗಲಿ ವಿ. ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1150,7 +1151,7 @@
 			<feature></feature>
 			<page>0105-0114</page>
 			<allauthors>
-				<author>ಪ್ರಭುಸ್ವಾಮಿಮಠ ಸಿ. ವಿ </author>
+				<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ ಸಿ. ವಿ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1158,7 +1159,7 @@
 			<feature></feature>
 			<page>0115-0127</page>
 			<allauthors>
-				<author>ರಾಘವೇಂದ್ರರಾವ್ ಎಚ್. ಎಸ್</author>
+				<author>ರಾಘವೇಂದ್ರ ರಾವ್ ಎಚ್. ಎಸ್ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1166,7 +1167,7 @@
 			<feature></feature>
 			<page>0128-0143</page>
 			<allauthors>
-				<author>ಪಟ್ಟಾಭಿರಾಮ ಸೋಮಯಾಜೆ ಎಚ್</author>
+				<author>ಪಟ್ಟಾಭಿರಾಮ ಸೋಮಯಾಜಿ ಎಚ್</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1200,7 +1201,7 @@
 			<feature></feature>
 			<page>0003-0007</page>
 			<allauthors>
-				<author>ಭಾಗೀರಥಿ ಹೆಗೆಡೆ</author>
+				<author>ಭಾಗೀರಥಿ ಹೆಗಡೆ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1216,7 +1217,7 @@
 			<feature></feature>
 			<page>0013-0019</page>
 			<allauthors>
-				<author>ರಾಘವೇಂದ್ರರಾವ್ ಎಚ್. ಎಸ್</author>
+				<author>ರಾಘವೇಂದ್ರ ರಾವ್ ಎಚ್. ಎಸ್ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1224,7 +1225,7 @@
 			<feature></feature>
 			<page>0020-0025</page>
 			<allauthors>
-				<author>ಚಂದ್ರಶೇಖರನಂಗಲಿ ವಿ</author>
+				<author>ಚಂದ್ರಶೇಖರ ನಂಗಲಿ ವಿ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1264,8 +1265,8 @@
 			<feature></feature>
 			<page>0057-0069</page>
 			<allauthors>
-				<author>ಅಚಾರ್ಯ ರಜನೀಶ್</author>
-				<author>ನಾಗಭೂಷಣ</author>
+				<author>ಅಚಾರ್ಯ ರಜನೀಶ</author>
+				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್‌</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1323,7 +1324,7 @@
 			<feature></feature>
 			<page>0030-0034</page>
 			<allauthors>
-				<author>ದಿವಾಕರ್ ಎಸ್</author>
+				<author>ದಿವಾಕರ ಎಸ್</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1371,7 +1372,7 @@
 			<feature></feature>
 			<page>0095-0098</page>
 			<allauthors>
-				<author>ನಾಗಾಭೂಷಣ ಡಿ. ಎಸ್</author>
+				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1495,7 +1496,7 @@
 			<feature></feature>
 			<page>0068-0072</page>
 			<allauthors>
-				<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ್ ಸಿ. ವಿ</author>
+				<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ ಸಿ. ವಿ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1519,7 +1520,7 @@
 			<feature></feature>
 			<page>0000-0000</page>
 			<allauthors>
-				<author>ಶಿವರುದ್ರಪ್ಪ ಜಿ. ಎಸ್</author>
+				<author>ಶಿವರುದ್ರಪ್ಪ ಜಿ. ಎಸ್ ಡಾ||</author>
 			</allauthors>
 		</entry>
 	</volume>
@@ -1577,7 +1578,7 @@
 			<feature></feature>
 			<page>0059-0073</page>
 			<allauthors>
-				<author>ರಾಜಶೇಖರ್ ಜಿ</author>
+				<author>ರಾಜಶೇಖರ ಜಿ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1625,7 +1626,7 @@
 			<feature></feature>
 			<page>0102-0106</page>
 			<allauthors>
-				<author>ಟಿ ಸುನಂದಮ್ಮ</author>
+				<author>ಸುನಂದಮ್ಮ ಟಿ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1723,7 +1724,7 @@
 			<feature></feature>
 			<page>0013-0021</page>
 			<allauthors>
-				<author> ಮಣಿಪಾಲ   ಡಾ||</author>
+				<author>ಮಣಿಪಾಲ ಆರ್‌. ಕೆ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1739,7 +1740,7 @@
 			<feature></feature>
 			<page>0031-0045</page>
 			<allauthors>
-				<author>ಚಂದ್ರಶೇಖರ ಟಿ.ಆರ್</author>
+				<author>ಚಂದ್ರಶೇಖರ ಟಿ. ಆರ್</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1747,7 +1748,7 @@
 			<feature></feature>
 			<page>0046-0055</page>
 			<allauthors>
-				<author>ಪ್ರಭುಸ್ವಾಮಿಮಠ ಸಿ. ವಿ ಡಾ||</author>
+				<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ ಸಿ. ವಿ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1763,7 +1764,7 @@
 			<feature></feature>
 			<page>0066-0072</page>
 			<allauthors>
-				<author>ರಾಜಶೇಖರ ಎಸ್.ವಿ</author>
+				<author>ರಾಜಶೇಖರ ಎಸ್. ವಿ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1806,7 +1807,7 @@
 			<feature></feature>
 			<page>0020-0037</page>
 			<allauthors>
-				<author>ಕೀರ್ತಿನಾಥಕುರ್ತಕೋಟ ಪ್ರೊ||</author>
+				<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತಕೋಟ ಪ್ರೊ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1854,7 +1855,7 @@
 			<feature></feature>
 			<page>0079-0111</page>
 			<allauthors>
-				<author>ಸುಮಿತ್ ಸರ್ಕಾರ್</author>
+				<author>ಸುಮೀತ್ ಸರ್ಕಾರ್</author>
 				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
 			</allauthors>
 		</entry>
@@ -1864,7 +1865,7 @@
 			<page>0112-0117</page>
 			<allauthors>
 				<author>ವಂದನಾಶಿವ ಡಾ||</author>
-				<author>ಮಲ್ಲಿಕಾರ್ಜನ ಜೆ. ಎನ್</author>
+				<author>ಮಲ್ಲಿಕಾರ್ಜುನ ಜೆ. ಎನ್</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1896,7 +1897,7 @@
 			<feature></feature>
 			<page>0148-0152</page>
 			<allauthors>
-				<author>ಚಿಂತಾಮಣಿ ಕೊಡ್ಲಕೆರೆ</author>
+				<author>ಚಿಂತಾಮಣಿ ಕೊಡ್ಲೆಕೆರೆ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1904,7 +1905,7 @@
 			<feature></feature>
 			<page>0152-0160</page>
 			<allauthors>
-				<author>ಬಸವರಾಜ ಸಬರದ</author>
+				<author>ಬಸವರಾಜ ಸಬರದ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -1922,7 +1923,7 @@
 			<feature></feature>
 			<page>0001-0018</page>
 			<allauthors>
-				<author>ರಾಘವೇಂದ್ರರಾವ್</author>
+				<author>ರಾಘವೇಂದ್ರ ರಾವ್ ಎಚ್. ಎಸ್ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -2022,7 +2023,7 @@
 			<feature></feature>
 			<page>0022-0024</page>
 			<allauthors>
-				<author>ಮಂಜುನಾಥ್ ಎಸ್. </author>
+				<author>ಮಂಜುನಾಥ್ ಎಸ್ </author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -2046,7 +2047,7 @@
 			<feature></feature>
 			<page>0046-0053</page>
 			<allauthors>
-				<author>ಮಣಿಪಾಲ ಆರ್‍ಕೆ ಡಾ||</author>
+				<author>ಮಣಿಪಾಲ ಆರ್‌. ‍ಕೆ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -2094,7 +2095,7 @@
 			<feature></feature>
 			<page>0073-0075</page>
 			<allauthors>
-				<author>ಜಯಂತ ಕಾಯ್ಕಣಿ</author>
+				<author>ಜಯಂತ ಕಾಯ್ಕಿಣಿ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -2206,7 +2207,7 @@
 			<feature></feature>
 			<page>0119-0121</page>
 			<allauthors>
-				<author>ಲಕ್ಷ್ಮಣರಾವ್ ಬಿ.ಆರ್</author>
+				<author>ಲಕ್ಷ್ಮಣರಾವ್ ಬಿ. ಆರ್</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -2334,7 +2335,7 @@
 			<feature></feature>
 			<page>0160-0162</page>
 			<allauthors>
-				<author>ಲಕ್ಷ್ಮೀಶ್ ತೊಳ್ಪಾಡಿ</author>
+				<author>ಲಕ್ಷ್ಮೀಶ ತೊಳ್ಪಾಡಿ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -2418,7 +2419,7 @@
 			<feature></feature>
 			<page>0001-0012</page>
 			<allauthors>
-				<author>ಹರ್ಬರ್ಟ್‌‌ರೀಡ್</author>
+				<author>ಹರ್ಬರ್ಟ್‌‌ ರೀಡ್</author>
 				<author>ಮಲ್ಲಿಕಾರ್ಜುನ ಹಿರೇಮಠ</author>
 			</allauthors>
 		</entry>
@@ -2541,7 +2542,7 @@
 			<feature></feature>
 			<page>0026-0032</page>
 			<allauthors>
-				<author>ಶಿವರುದ್ರಪ್ಪ ಜಿ. ಎಸ್</author>
+				<author>ಶಿವರುದ್ರಪ್ಪ ಜಿ. ಎಸ್ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -2557,7 +2558,7 @@
 			<feature></feature>
 			<page>0041-0051</page>
 			<allauthors>
-				<author>ಹರ್ಬರ್ಟ್‌‌ರೀಡ್</author>
+				<author>ಹರ್ಬರ್ಟ್‌‌ ರೀಡ್</author>
 				<author>ಮಲ್ಲಿಕಾರ್ಜುನ ಹಿರೇಮಠ</author>
 			</allauthors>
 		</entry>
@@ -2574,7 +2575,7 @@
 			<feature></feature>
 			<page>0058-0060</page>
 			<allauthors>
-				<author>ಚಿದಂಬರರಾವ್ ಎನ್. ಎಸ್</author>
+				<author>ಚಿದಂಬರರಾವ್‌ ಎನ್. ಎಸ್</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -2624,7 +2625,7 @@
 			<feature></feature>
 			<page>0014-0026</page>
 			<allauthors>
-				<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ</author>
+				<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -2640,7 +2641,7 @@
 			<feature></feature>
 			<page>0035-0051</page>
 			<allauthors>
-				<author>ಪ್ರಭುಸ್ವಾಮಿಮಠ ಸಿ.ವಿ ಡಾ||</author>
+				<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ ಸಿ.ವಿ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -2674,7 +2675,7 @@
 			<feature></feature>
 			<page>0001-0011</page>
 			<allauthors>
-				<author>ಲಕ್ಷ್ಮೀನಾರಾಯಣ</author>
+				<author>ಲಕ್ಷ್ಮೀನಾರಾಯಣ ವಿ. ಎನ್</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -2815,7 +2816,7 @@
 			<feature></feature>
 			<page>0001-0010</page>
 			<allauthors>
-				<author>ಆಚಾರ್ಯರಜನೀಶ</author>
+				<author>ಆಚಾರ್ಯ ರಜನೀಶ</author>
 				<author>ಕೃಷ್ಣಪಾಟೀಲ</author>
 			</allauthors>
 		</entry>
@@ -3013,7 +3014,7 @@
 			<feature>ಕಥೆ</feature>
 			<page>0002-0015</page>
 			<allauthors>
-				<author>ಬಸವರಾಜು</author>
+				<author>ಬಸವರಾಜು ಜೆ. ಪಿ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3119,7 +3120,7 @@
 			<feature></feature>
 			<page>0001-0019</page>
 			<allauthors>
-				<author>ರಾಜಾರಾಮ ಹೆಗೆಡೆ</author>
+				<author>ರಾಜಾರಾಮ ಹೆಗಡೆ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3210,7 +3211,7 @@
 			<feature></feature>
 			<page>0002-0005</page>
 			<allauthors>
-				<author>ತಿರುಮಲೇಶ್</author>
+				<author>ತಿರುಮಲೇಶ್ ಕೆ. ವಿ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3226,7 +3227,7 @@
 			<feature></feature>
 			<page>0017-0033</page>
 			<allauthors>
-				<author>ಪ್ರಹ್ಲಾದ ಅಗಸನಕಟ್ಟಿ</author>
+				<author>ಪ್ರಹ್ಲಾದ ಅಗಸನಕಟ್ಟೆ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3267,7 +3268,7 @@
 			<feature></feature>
 			<page>0064-0069</page>
 			<allauthors>
-				<author>ವೀರಭದ್ರಪ್ಪ ಬಿ. ವಿ ಪ್ರೊ</author>
+				<author>ವೀರಭದ್ರಪ್ಪ ಬಿ. ವಿ ಪ್ರೊ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3300,7 +3301,7 @@
 			<feature></feature>
 			<page>0093-0095</page>
 			<allauthors>
-				<author>ಮಣಿಪಾಲ ಆರ್‍ಕೆ ಡಾ||</author>
+				<author>ಮಣಿಪಾಲ ಆರ್‌. ‍ಕೆ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3358,7 +3359,7 @@
 			<feature></feature>
 			<page>0003-0009</page>
 			<allauthors>
-				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯರ</author>
+				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3382,7 +3383,7 @@
 			<feature></feature>
 			<page>0030-0045</page>
 			<allauthors>
-				<author>ರಾಜಾರಾಮ ಹೆಗೆಡೆ ಡಾ||</author>
+				<author>ರಾಜಾರಾಮ ಹೆಗಡೆ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3454,7 +3455,7 @@
 			<feature></feature>
 			<page>0118-0120</page>
 			<allauthors>
-				<author>ರಾಘವೇಂದ್ರ ಪಶಟೀಲ</author>
+				<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
 			</allauthors>
 		</entry>
 	</volume>
@@ -3464,7 +3465,7 @@
 			<feature>ಕಾವ್ಯ</feature>
 			<page>0003-0007</page>
 			<allauthors>
-				<author>ವೆಂಕಟೇಶಮೂರ್ತಿ ಎಚ್. ಎಸ್</author>
+				<author>ವೆಂಕಟೇಶ ಮೂರ್ತಿ ಎಚ್. ಎಸ್ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3520,7 +3521,7 @@
 			<feature></feature>
 			<page>0058-0071</page>
 			<allauthors>
-				<author>ಚಂದ್ರಶೇಖರ ನಂಗಲಿ</author>
+				<author>ಚಂದ್ರಶೇಖರ ನಂಗಲಿ ವಿ. ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3546,7 +3547,7 @@
 			<feature></feature>
 			<page>0094-0098</page>
 			<allauthors>
-				<author>ಲಿಂಗದೇವರು ಹಳಿಮನೆ</author>
+				<author>ಲಿಂಗದೇವರು ಹಳೆಮನೆ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3620,7 +3621,7 @@
 			<feature></feature>
 			<page>0051-0060</page>
 			<allauthors>
-				<author>ಚಂದ್ರಶೇಖರ ನಂಗಲಿ ವಿ</author>
+				<author>ಚಂದ್ರಶೇಖರ ನಂಗಲಿ ವಿ. ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3711,7 +3712,7 @@
 			<feature>ಕಾವ್ಯಂಜಲಿ</feature>
 			<page>0001-0001</page>
 			<allauthors>
-				<author>ವೆಂಕಟೇಶಮೂರ್ತಿ ಎಚ್. ಎಸ್</author>
+				<author>ವೆಂಕಟೇಶ ಮೂರ್ತಿ ಎಚ್. ಎಸ್ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3799,7 +3800,7 @@
 			<feature>ಲಂಕೇಶ ಒಂದು ಸಾಂಸ್ಕೃತಿಕ ವಿದ್ಯಮಾನ</feature>
 			<page>0061-0065</page>
 			<allauthors>
-				<author>ವಿರಭದ್ರಪ್ಪ ಬಿ. ವಿ</author>
+				<author>ವೀರಭದ್ರಪ್ಪ ಬಿ. ವಿ ಪ್ರೊ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3887,7 +3888,7 @@
 			<feature></feature>
 			<page>00138-00143</page>
 			<allauthors>
-				<author>ಚಂದ್ರಶೇಖರ್ ಟಿ. ಆರ್ ಡಾ||</author>
+				<author>ಚಂದ್ರಶೇಖರ್ ಟಿ. ಆರ್</author>
 				<author>ಮಹೇಶ್ ತಿಪ್ಪಶೆಟ್ಟಿ</author>
 			</allauthors>
 		</entry>
@@ -3897,7 +3898,7 @@
 			<page>0144-0145</page>
 			<allauthors>
 				<author>ಮುನಿವೆಂಕಟಪ್ಪ ಡಾ||</author>
-				<author>ಪ್ರಹ್ಲಾದ ಅಗಸನ ಕಟ್ಟೆ</author>
+				<author>ಪ್ರಹ್ಲಾದ ಅಗಸನಕಟ್ಟೆ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -3919,224 +3920,13 @@
 			</allauthors>
 		</entry>
 	</volume>
-	<volume vnum="056-057">
-		<entry>
-			<title>ಡೆಡಲಸ್ಸಿನ ಸ್ವಗತ</title>
-			<feature>ಕಾವ್ಯ</feature>
-			<page>0001-0003</page>
-			<allauthors>
-				<author>ರಾಮಚಂದ್ರಶರ್ಮ ಬಿ. ಸಿ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಜೋಹೋ ಜೋಹಯ್...</title>
-			<feature>ಕಾವ್ಯ</feature>
-			<page>0004-0005</page>
-			<allauthors>
-				<author>ಯಶವಂತ ಚಿತ್ತಾಲ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಅಣ್ಣುಮಕ್ಕಳು ಕ್ಷಣ ನಕ್ಕರೆ</title>
-			<feature>ಕಾವ್ಯ</feature>
-			<page>0005-0006</page>
-			<allauthors>
-				<author>ಚಂದ್ರಶೇಖರತಾಳ್ಯ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಬಾಲ್ಯ ಸಖಿ</title>
-			<feature>ಕವಿತೆ</feature>
-			<page>0006-0009</page>
-			<allauthors>
-				<author>ಸಿದ್ದರಾಮಯ್ಯ ಎಸ್. ಜಿ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಅಮಟೆ ಅಮಟೆ</title>
-			<feature>ಕವಿತೆ</feature>
-			<page>0009-0011</page>
-			<allauthors>
-				<author>ರವಿಂದ್ರಕುಮಾರ್ ಜಿ.ಕೆ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಪಾಡು</title>
-			<feature>ಕವಿತೆ</feature>
-			<page>0011-0013</page>
-			<allauthors>
-				<author>ಮೂಗಳ್ಳಿ ಗಣೇಶ್</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಪುಸ್ತಕಗಳು</title>
-			<feature>ಕವಿತೆ</feature>
-			<page>0013-0015</page>
-			<allauthors>
-				<author>ಸಫ್ದರ್ ಹಶ್ಮಿ</author>
-				<author>ಸರಜೂ ಕಾಟ್ಕರ್</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ನೀರೊಳಗಣ ಕಿಚ್ಚು</title>
-			<feature>ಕವಿತೆ</feature>
-			<page>0015-0016</page>
-			<allauthors>
-				<author>ವಿಜಯರಾಘವನ್  ಆರ್</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>'ಸಾರ್ಥ' ಕಥೆಯ ಇತಿಹಾಸ</title>
-			<feature></feature>
-			<page>0017-0043</page>
-			<allauthors>
-				<author>ರಾಜಾರಾಮ ಹೆಗಡೆ ಡಾ||</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>"ಯಾವ ಜಪ್ತಿಗೂ ಸಿಗದೆ ಗೋಡೆ ಮೇಲಿನ ನೆವುಲುಗಳು ಕುಣಿಯುತ್ತಿದ್ದವು" ಯಾಕೆ?</title>
-			<feature></feature>
-			<page>0044-0066</page>
-			<allauthors>
-				<author>ರಘು ಸೋಫೀನಾ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಟ್ರಂಕು...</title>
-			<feature></feature>
-			<page>0067-0077</page>
-			<allauthors>
-				<author>ನಂದಾ ಡಿ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಕನ್ನಡ ನಾಟಕ ಮತ್ತು ರಂಗಭೂಮಿಯ ಮುಂದಿನ ಸವಾಲುಗಳು</title>
-			<feature></feature>
-			<page>0078-0090</page>
-			<allauthors>
-				<author>ಲಿಂಗದೇವರು ಹಳೆಮನೆ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಒಂದು ವ್ಯಾಖ್ಯಾನ ಕಥೆ</title>
-			<feature></feature>
-			<page>0091-0094</page>
-			<allauthors>
-				<author>ಗಜಾನನ ಈಶ್ವರ ಹೆಗಡೆ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ತೊಗಲ ಮೂಗನು ಕುಯ್ದು...</title>
-			<feature></feature>
-			<page>0095-0104</page>
-			<allauthors>
-				<author>ರಾಧಾಕೃಷ್ಣ ಟಿ. ಆರ್</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ನಮ್ಮವರಾಗದೆ ಉಳಿದು ನೋಡಿದ ನಾಟಕ...</title>
-			<feature></feature>
-			<page>0105-0113</page>
-			<allauthors>
-				<author>ತುಕಾರಾಮ್ ಎಸ್</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಹೊಸಧ್ವನಿಗಳು</title>
-			<feature></feature>
-			<page>0114-0123</page>
-			<allauthors>
-				<author>ಸಂಪಾದಕ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ನೇತ್ರದಾನ</title>
-			<feature></feature>
-			<page>0124-0126</page>
-			<allauthors>
-				<author>ಪದ್ಮಿನಿ ಹೆಗ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಒಂದು ಜಾನಪದ ತಿರುಗಾಟ</title>
-			<feature></feature>
-			<page>0127-0133</page>
-			<allauthors>
-				<author>ಮೀರಾಸಾಬಿಹಳ್ಳಿ ಶಿವಣ್ಣ ಡಾ||</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಕನ್ನಡ ವಿಚಾರ ಸಾಹಿತ್ಯಕ್ಕೆ ಮಹಿಳೆಯರ ಕೊಡುಗೆ</title>
-			<feature></feature>
-			<page>0134-0144</page>
-			<allauthors>
-				<author>ಪ್ರಭಾವತಿ ಎಸ್. ವಿ ಡಾ||</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಐದು ಗದ್ಯ ಕವಿತೆಗಳು</title>
-			<feature></feature>
-			<page>0145-0146</page>
-			<allauthors>
-				<author>ಕೃಷ್ಣಮೂರ್ತಿ ಬಿಳಿಗೆರೆ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಹೊಸ ಓದು</title>
-			<feature></feature>
-			<page>0147-0156</page>
-			<allauthors>
-				<author>ಸಂಪಾದಕ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಸಂತುಲಿತ ಆಯ್ಕೆ</title>
-			<feature></feature>
-			<page>0156-0158</page>
-			<allauthors>
-				<author>ಪ್ರಹ್ಲಾದ ಅಗಸನಕಟ್ಟೆ</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>'ಜಯಂತಿ' ಒಂದು ಸಾಂಸ್ಕೃತಿಕ ಪತ್ರಿಕೆ.</title>
-			<feature></feature>
-			<page>0161-0166</page>
-			<allauthors>
-				<author>ಸುಮತೀಂದ್ರ ನಾಡಿಗೆ ಡಾ||</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಆನಂದಕಂದರ ಕವಿತೆಗಳು</title>
-			<feature></feature>
-			<page>0167-0173</page>
-			<allauthors>
-				<author>ವೆಂಕಟೇಶಮೂರ್ತಿ  ಎಚ್. ಎಸ್ ಡಾ||</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಆನಂದಕಂದರ ಕಾವ್ಯದಲ್ಲಿ ದೇಶಿ ಸಂವೇದನೆ</title>
-			<feature></feature>
-			<page>0174-0185</page>
-			<allauthors>
-				<author>ನಾವಲಗಿ ಸಿ. ಕೆ ಡಾ||</author>
-			</allauthors>
-		</entry>
-		<entry>
-			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣೆಗಳು...</title>
-			<feature></feature>
-			<page>0186-0187</page>
-			<allauthors>
-				<author>ಸಂಪಾದಕ</author>
-			</allauthors>
-		</entry>
-	</volume>
 	<volume vnum="058">
 		<entry>
 			<title>ಕಾವ್ಯ</title>
 			<feature></feature>
 			<page>0003-0010</page>
 			<allauthors>
-				<author>ಆನಂದ ಝಂಜರವಾಡರ</author>
+				<author>ಆನಂದ ಝಂಜರವಾಡ</author>
 				<author>ರವೀಂದ್ರಕುಮಾರ ಜಿ. ಕೆ</author>
 			</allauthors>
 		</entry>
@@ -4170,7 +3960,7 @@
 			<feature></feature>
 			<page>0049-0053</page>
 			<allauthors>
-				<author>ಮೀರಾಸಾಬಿಹಳ್ಳಿ ಶಿವಣ್ಣ</author>
+				<author>ಮೀರಾಸಾಬಿಹಳ್ಳಿ ಶಿವಣ್ಣ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -4194,7 +3984,7 @@
 			<feature></feature>
 			<page>0080-0086</page>
 			<allauthors>
-				<author>ರಾಜಶೇಖರಪ್ಪ ಬಿ. ಪ್ರೊ</author>
+				<author>ರಾಜಶೇಖರಪ್ಪ ಬಿ. ಪ್ರೊ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -4202,7 +3992,7 @@
 			<feature></feature>
 			<page>0086-0093</page>
 			<allauthors>
-				<author>ಹಾ.ಮ.ಕನಕ</author>
+				<author>ಕನಕ ಹಾ. ಮ</author>
 				<author>ಮೀನಾ ಸದಾಶಿವ</author>
 			</allauthors>
 		</entry>
@@ -4238,7 +4028,7 @@
 			<feature></feature>
 			<page>0003-0007</page>
 			<allauthors>
-				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯರ</author>
+				<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -4270,7 +4060,7 @@
 			<feature></feature>
 			<page>0070-0080</page>
 			<allauthors>
-				<author>ಮಲ್ಲಿಕಾರ್ಜುನ ಜಿ. ಎನ್</author>
+				<author>ಮಲ್ಲಿಕಾರ್ಜುನ ಜೆ. ಎನ್</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -4328,7 +4118,7 @@
 			<feature></feature>
 			<page>0007-0037</page>
 			<allauthors>
-				<author>ರಾಜಾರಾಮ ಹೆಗೆಡೆ ಡಾ||</author>
+				<author>ರಾಜಾರಾಮ ಹೆಗಡೆ ಡಾ||</author>
 			</allauthors>
 		</entry>
 		<entry>
@@ -4420,6 +4210,5 @@
 			</allauthors>
 		</entry>
 	</volume>
-
 </samvada>
 <!--vishwas@srirangadigital.com-->
