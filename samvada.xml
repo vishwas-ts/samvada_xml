@@ -4,7 +4,7 @@
 	<volume vnum="002">
  		<entry>
  			<title>ತೇಜಸ್ವಿ ಸಂದರ್ಶನ</title>
- 			<feature></feature>
+ 			<feature>ಸಂದರ್ಶನ</feature>
  			<page>0001-0006</page>
  			<allauthors>
  				<author>ಶಿವಾನಂದ ಬೇಕಲ್</author>
@@ -12,7 +12,7 @@
  		</entry>
  		<entry>
  			<title>ಗೀತಾಂಜಲಿ : ಸಾವಿನ ಬೊಗಸೆಯಲ್ಲಿ ಹೂಬಿಟ್ಟ ಕಾವ್ಯ</title>
- 			<feature></feature>
+ 			<feature>ವಿಮರ್ಶೆ</feature>
  			<page>0007-0020</page>
  			<allauthors>
  				<author>ಶಾಂತ ಬಿ. ಎನ್</author>
@@ -20,7 +20,7 @@
  		</entry>
  		<entry>
  			<title>ಸಿಸಿರೊ</title>
- 			<feature></feature>
+ 			<feature>ನಾಟಕ</feature>
  			<page>0021-0037</page>
  			<allauthors>
  				<author>ಪ್ರಭು ಎಂ. ಎಸ್. ಕೆ</author>
@@ -28,7 +28,7 @@
  		</entry>
  		<entry>
  			<title>ನಾನೇಕೆ ಅಮೇರಿಕಾ ಬಿಟ್ಟು ಬಂದೆ?</title>
- 			<feature></feature>
+ 			<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
  			<page>0038-0047</page>
  			<allauthors>
  				<author>ನಾಗರಾಜ ಎ. ಎನ್. ಡಾ||</author>
@@ -36,7 +36,7 @@
  		</entry>
  		<entry>
  			<title>ಶ್ರೀಕ್ಲಾಸನ್‌ರಿಗೊಂದು ಬಹಿರಂಗ ಪತ್ರ</title>
- 			<feature></feature>
+ 			<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
  			<page>0048-0062</page>
  			<allauthors>
  				<author>ಎಡ್ವರ್ಡ್ ಗೋಲ್ಡಸ್ಮಿತ್ </author>
@@ -45,7 +45,7 @@
  		</entry>
  		<entry>
  			<title>ನನ್ನ ಕೃತಿಗಳು ಮತ್ತು ಕನ್ನಡ ಕಾದಂಬರಿ ಪರಂಪರೆ</title>
- 			<feature></feature>
+ 			<feature>ಆತ್ಮಕಥನ</feature>
  			<page>0063-0070</page>
  			<allauthors>
  				<author>ಅನುಪಮಾ ನಿರಂಜನ ಡಾ||</author>
@@ -53,7 +53,7 @@
  		</entry>
  		<entry>
  			<title>ನಂಬಿಕೆಗಳು</title>
- 			<feature>ಹೊಸಓದು</feature>
+ 			<feature>ವಿಮರ್ಶೆ</feature>
  			<page>0071-0073</page>
  			<allauthors>
  				<author>ಬಸವರಾಜು ಜೆ. ಪಿ </author>
@@ -61,7 +61,7 @@
  		</entry>
  		<entry>
  			<title>ಅಂಕ</title>
- 			<feature></feature>
+ 			<feature>ವಿಮರ್ಶೆ</feature>
  			<page>0074-0077</page>
  			<allauthors>
  				<author>ಶ್ರೀನಿವಾಸ ಪ್ರಸಾದ್</author>
@@ -69,7 +69,7 @@
  		</entry>
  		<entry>
  			<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</title>
- 			<feature></feature>
+ 			<feature>ಟಿಪ್ಪಣಿ</feature>
  			<page>0078-0080</page>
  			<allauthors>
  				<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
