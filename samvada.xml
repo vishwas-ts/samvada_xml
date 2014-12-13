@@ -80,7 +80,7 @@
 		<part pnum="004" month="" year="">
 			<entry>
 				<title>ಗಾಂಧಿ ಗ್ರಹಿಸಿದ ಧರ್ಮ ಮತ್ತು ರಾಜಕಾರಣ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0001-0007</page>
 				<allauthors>
 					<author>ರಾಜಾರಾಂ ತೋಳ್ಪಾಡಿ</author>
@@ -88,7 +88,7 @@
 			</entry>
 			<entry>
 				<title>&aposಬಸ್ತಾರ್&aposನ ಅರಣ್ಯಾಭಿವೃದ್ಧಿ ಕಾರ್ಯಕ್ರಮ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0008-0012</page>
 				<allauthors>
 					<author>ಭರತ್ ಡೋಗ್ರ</author>
@@ -97,7 +97,7 @@
 			</entry>
 			<entry>
 				<title>ಭರತನಾಟ್ಯ ನಡೆದು ಬಂದ ದಾರಿ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0013-0020</page>
 				<allauthors>
 					<author>ಚಂದ್ರಭಾಗಾದೇವಿ</author>
@@ -105,7 +105,7 @@
 			</entry>
 			<entry>
 				<title>ನಾನು ಮತ್ತು ನನ್ನ ನವಿಲು</title>
-				<feature></feature>
+				<feature>ಕಥೆ</feature>
 				<page>0021-0029</page>
 				<allauthors>
 					<author>ಗುಂಟೂರು ಶೇಷೇಂದ್ರ ಶರ್ಮ</author>
@@ -113,8 +113,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಹಿನ್ನೆಲೆ</title>
-				<feature>ದಲಿತಸಾಹಿತ್ಯ</feature>
+				<title>ದಲಿತ ಸಾಹಿತ್ಯ: ಹಿನ್ನೆಲೆ</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0030-0044</page>
 				<allauthors>
 					<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ ಡಾ||</author>
@@ -122,7 +122,7 @@
 			</entry>
 			<entry>
 				<title>ಭವಿಷ್ಯದ ನಮ್ಮ ಬದುಕು</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0045-0058</page>
 				<allauthors>
 					<author>ಅಲ್ವಿನ್ ಟಾಫ್ಲರ್</author>
@@ -131,7 +131,7 @@
 			</entry>
 			<entry>
 				<title>ಹರಿವ ನೆರಳ ಬೆನ್ನೇರಿ</title>
-				<feature>ಕವಿತೆ</feature>
+				<feature>ಕವನ</feature>
 				<page>0059-0060</page>
 				<allauthors>
 					<author>ಮುಳ್ಳೂರ್‌ ನಾಗರಾಜ್</author>
@@ -139,7 +139,7 @@
 			</entry>
 			<entry>
 				<title>ಗಾಂಧಾರಿ ಕುಲ</title>
-				<feature>ಕವಿತೆ</feature>
+				<feature>ಕವನ</feature>
 				<page>0061-0062</page>
 				<allauthors>
 					<author>ಸುಮಿತ್ರೆ</author>
@@ -147,7 +147,7 @@
 			</entry>
 			<entry>
 				<title>ರಸವಾಗದ ಹನಿಗಳು</title>
-				<feature>ಕವಿತೆ</feature>
+				<feature>ಕವನ</feature>
 				<page>0063-0064</page>
 				<allauthors>
 					<author>ಸುಮಿತ್ರೆ</author>
@@ -155,7 +155,7 @@
 			</entry>
 			<entry>
 				<title>ಅವಧ</title>
-				<feature>ಹೊಸ ಓದು</feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0065-0070</page>
 				<allauthors>
 					<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ ಸಿ. ವಿ ಡಾ||</author>
@@ -163,7 +163,7 @@
 			</entry>
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0071-0081</page>
 				<allauthors>
 					<author>ಉಷಾ ಸ</author>
