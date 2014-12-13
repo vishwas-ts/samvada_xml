@@ -2,7 +2,7 @@
 <!DOCTYPE samvada SYSTEM "samvada.dtd">
 <samvada>
 	<volume vnum="001">
-		<part pnum="002" month="" year"">
+		<part pnum="002" month="01-02" year"1987">
 	 		<entry>
 	 			<title>ತೇಜಸ್ವಿ ಸಂದರ್ಶನ</title>
 	 			<feature>ಸಂದರ್ಶನ</feature>
@@ -77,7 +77,7 @@
 	 			</allauthors>
 	 		</entry>
 	 	</part>
-		<part pnum="004" month="" year="">
+		<part pnum="004" month="05-06" year="1987">
 			<entry>
 				<title>ಗಾಂಧಿ ಗ್ರಹಿಸಿದ ಧರ್ಮ ಮತ್ತು ರಾಜಕಾರಣ</title>
 				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
@@ -173,7 +173,7 @@
 		<part pnum="008" month="" year="">
 			<entry>
 				<title>ಕಾರಂತ ಸಂದರ್ಶನ</title>
-				<feature></feature>
+				<feature>ಸಂದರ್ಶನ</feature>
 				<page>0001-0008</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -181,7 +181,7 @@
 			</entry>
 			<entry>
 				<title>'ಷೇಕ್ಸಪಿಯರ್ ಸ್ವಪ್ನನೌಕೆ'</title>
-				<feature></feature>
+				<feature>ನಾಟಕ</feature>
 				<page>0009-0017</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -189,7 +189,7 @@
 			</entry>
 			<entry>
 				<title>ಕವಿ ಕಾವ್ಯ ಪರಿಚಯ...</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0018-0030</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -197,7 +197,7 @@
 			</entry>
 			<entry>
 				<title>ಉನ್ನತೋನ್ನತಿಯ ದಾಹ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0031-0039</page>
 				<allauthors>
 					<author>ಚಂದ್ರಶೇಖರ್ ಸಿ. ಆರ್. ಡಾ||</author>
@@ -205,7 +205,7 @@
 			</entry>
 			<entry>
 				<title>ಹಸಿವು ಆವರಿಸಿದಾಗ</title>
-				<feature></feature>
+				<feature>ಕಥೆ</feature>
 				<page>0040-0044</page>
 				<allauthors>
 					<author>ಲಕ್ಷ್ಮಣ ಬಾಪುಮಾನೆ</author>
@@ -213,23 +213,23 @@
 			</entry>
 			<entry>
 				<title>ಡಾ|| ಡಿ ಆರ್ ನಾಗರಾಜ್ ಅವರ 'ಶಕ್ತಿ-ಶಾರದೆಯ ಮೇಳ'</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0045-0048</page>
 				<allauthors>
 					<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>'ಸಾರ್ವತ್ರಿಕದೆಡೆಗೆ'-ಹೊಸ ಕಾವ್ಯಕ್ಕೊಂದು ಹೊಸ ವಿಮರ್ಶನದನಿ</title>
-				<feature></feature>
+				<title>&aposಸಾರ್ವತ್ರಿಕದೆಡೆಗೆ&apos-ಹೊಸ ಕಾವ್ಯಕ್ಕೊಂದು ಹೊಸ ವಿಮರ್ಶನದನಿ</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0049-0054</page>
 				<allauthors>
 					<author>ರಹಮತ್ ತರೀಕೆರೆ ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಹುಡುಕಾಡಿ ಬಂದ ಹೊನ್ನಿನ ಬದುಕು (ಕಾದಂಬರಿ</title>
-				<feature></feature>
+				<title>ಹುಡುಕಾಡಿ ಬಂದ ಹೊನ್ನಿನ ಬದುಕು (ಕಾದಂಬರಿ)</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0055-0056</page>
 				<allauthors>
 					<author>ಶ್ರೀಕೃಷ್ಣ ಚೆನ್ನಂಗೋಡ್</author>
@@ -237,7 +237,7 @@
 			</entry>
 			<entry>
 				<title>ಅವಧೇಶ್ವರಿ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0057-0062</page>
 				<allauthors>
 					<author>ಶಿವಪ್ರಕಾಶ್ ಹೆಚ್. ಎಸ್</author>
@@ -245,7 +245,7 @@
 			</entry>
 			<entry>
 				<title>'ಕತೆಗಾರನಾಗಿ ನನ್ನ ಅನುಭವ'</title>
-				<feature></feature>
+				<feature>ಆತ್ಮಕಥನ</feature>
 				<page>0063-0068</page>
 				<allauthors>
 					<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
@@ -253,15 +253,15 @@
 			</entry>
 			<entry>
 				<title>ನನ್ನ ಕೆಲವು ನೆನಪುಗಳು</title>
-				<feature></feature>
+				<feature>ಆತ್ಮಕಥನ</feature>
 				<page>0069-0074</page>
 				<allauthors>
 					<author>ಜಯಣ್ಣ ಎಂ. ಟಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>'ತಮಸ್'ನ ಜ್ಯೋತಿ</title>
-				<feature></feature>
+				<title>&aposತಮಸ್&aposನ ಜ್ಯೋತಿ</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0075-0082</page>
 				<allauthors>
 					<author>ಗುಲ್‌ಶನ್ ತನೇಜಾ</author>
@@ -269,7 +269,7 @@
 			</entry>
 			<entry>
 				<title>ಸಂಪಾದಕ ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0083-0086</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
