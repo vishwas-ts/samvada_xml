@@ -279,7 +279,7 @@
 		<part pnum="011" month="" year="">
 			<entry>
 				<title>ನನ್ನ ನೆನಪುಗಳು</title>
-				<feature></feature>
+				<feature>ಆತ್ಮಕಥನ</feature>
 				<page>0001-0010</page>
 				<allauthors>
 					<author>ಬೆಟಗೇರಿ ಕೃಷ್ಣಶರ್ಮ ಡಾ|| (ಆನಂದಕಂದ)</author>
@@ -287,7 +287,7 @@
 			</entry>
 			<entry>
 				<title>ಹಾಡು ಹಕ್ಕಿ</title>
-				<feature>ಕಾವ್ಯ</feature>
+				<feature>ಕವನ</feature>
 				<page>0011-0014</page>
 				<allauthors>
 					<author>ಬಸವರಾಜು ಜಿ. ಪಿ</author>
@@ -295,7 +295,7 @@
 			</entry>
 			<entry>
 				<title>ಬೆಂಗಳೂರು ಪದ್ಯಗಳು</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0014-0016</page>
 				<allauthors>
 					<author>ಚಂದ್ರತಾಳೀಕಟ್ಟೆ ಈ</author>
@@ -303,7 +303,7 @@
 			</entry>
 			<entry>
 				<title>ಕಡುಗೆಂಪು ಎದೆಯ ತಾಮ್ರಕಾರ ಹಕ್ಕಿ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0016-0018</page>
 				<allauthors>
 					<author>ಮೃತ್ಯುಂಜಯ ಕೆ. ಪಿ</author>
@@ -311,7 +311,7 @@
 			</entry>
 			<entry>
 				<title>ಸೃಷ್ಟಿ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0018-0020</page>
 				<allauthors>
 					<author>ಲೋಕೇಶ ಅಗಸನಕಟ್ಟಿ</author>
@@ -319,7 +319,7 @@
 			</entry>
 			<entry>
 				<title>ಚೆನ್ನವೀರ ಕಣವಿಯವರ ಕಾವ್ಯ:ಸುಸಂಸ್ಕೃತ ವ್ಯಕ್ತಿತ್ವದ ಸುಂದರ ಅಭಿವ್ಯಕ್ತಿ </title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0021-0032</page>
 				<allauthors>
 					<author>ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ ನರಹಳ್ಳಿ</author>
@@ -327,7 +327,7 @@
 			</entry>
 			<entry>
 				<title>ಪು ತಿ ನ ಅವರ ಶ್ರೀ ಹರಿಚರಿತೆ.</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0033-0038</page>
 				<allauthors>
 					<author>ವೆಂಕಟೇಶ ಮೂರ್ತಿ ಎಚ್. ಎಸ್ ಡಾ||</author>
@@ -335,15 +335,15 @@
 			</entry>
 			<entry>
 				<title>ಅಮ್ಮನಗುಡ್ಡ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0039-0046</page>
 				<allauthors>
 					<author>ರಾಜಶೇಖರ್ ಬಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಲಂಕೇಶ್,ಕಂಬಾರ, ಚಂ.ಪಾ.ನಾಟಕಗಳಲ್ಲಿ ಸಮಕಾಲೀನತೆ*</title>
-				<feature></feature>
+				<title>ಲಂಕೇಶ್, ಕಂಬಾರ, ಚಂ.ಪಾ. ನಾಟಕಗಳಲ್ಲಿ ಸಮಕಾಲೀನತೆ</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0047-0053</page>
 				<allauthors>
 					<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
@@ -351,7 +351,7 @@
 			</entry>
 			<entry>
 				<title>ಭಾರತದ ನದೀಜಾಲ ಗಂಗಾ-ಕಾವೇರಿ ಯೋಜನೆ.</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0054-0056</page>
 				<allauthors>
 					<author>ಅಣಜಿ ಸಿ. ಆರ್</author>
@@ -359,23 +359,23 @@
 			</entry>
 			<entry>
 				<title>ಜನಪ್ರಿಯ ಸಾಹಿತ್ಯ ಹಾಗೂ ಗಂಭೀರ ಸಾಹಿತ್ಯ.</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0057-0064</page>
 				<allauthors>
 					<author>ಚಿದಂಬರರಾವ್‌ ಎನ್. ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಭಾಷೆ-ಭಾವನೆ-ಹೃದಯ ಸಂಬಂಧ ಇತ್ಯಾದಿ*...</title>
-				<feature></feature>
+				<title>ಭಾಷೆ-ಭಾವನೆ-ಹೃದಯ ಸಂಬಂಧ ಇತ್ಯಾದಿ...</title>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0065-0072</page>
 				<allauthors>
 					<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಋತು ವಿಲಾಸ:</title>
-				<feature></feature>
+				<title>ಋತು ವಿಲಾಸ: ಕಾಳಿದಾಸನ ಋತುಸಂಹಾರದ ಅನುಸೃಷ್ವಿ</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0073-0074</page>
 				<allauthors>
 					<author>ಗೌರೀಶ ಕಾಯ್ಕಿಣಿ</author>
@@ -383,7 +383,7 @@
 			</entry>
 			<entry>
 				<title>ವಾಸನಾಮಯ ಬದುಕಿನ ಆಚೆ ಈಚೆ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0075-0080</page>
 				<allauthors>
 					<author>ಶ್ರೀನಿವಾಸ ಪ್ರಸಾದ್</author>
@@ -391,7 +391,7 @@
 			</entry>
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0081-0087</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
