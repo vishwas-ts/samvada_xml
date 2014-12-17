@@ -744,17 +744,17 @@
 		</part>
 		<part pnum="020" month="" year="">
 			<entry>
-				<title>ಸುಮ್ಮನಿರುವ ಸುಮ್ಮಾನ:</title>
+				<title>ಸುಮ್ಮನಿರುವ ಸುಮ್ಮಾನ: ತಾವೋನ ಪದ್ಯಗಳು</title>
 				<feature></feature>
 				<page>0003-0005</page>
 				<allauthors>
+					<author>ಲಾವೋತ್ಸೆ </author>
 					<author>ಮಂಜುನಾಥ ಎಸ್</author>
-					<author>ಲಾವೋತ್ಸೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಬುದ್ಧಿಮಂದ ಹಕ್ಕಿ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0006-0008</page>
 				<allauthors>
 					<author>ಚುವಾಂಗ್ ‌ತ್ಸೆ</author>
@@ -762,7 +762,7 @@
 			</entry>
 			<entry>
 				<title>ಬೇಂದ್ರೆಯವರ 'ತುತ್ತಿನ ಚೀಲ'</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0008-0021</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -770,7 +770,7 @@
 			</entry>
 			<entry>
 				<title>ನಾಲ್ಕು ಸುನೀತಗಳು</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0022-0024</page>
 				<allauthors>
 					<author>ವೆಂಕಟೇಶ ಮೂರ್ತಿ ಎಚ್. ಎಸ್ ಡಾ||</author>
@@ -778,7 +778,7 @@
 			</entry>
 			<entry>
 				<title>ಅವಳಸ್ಥಿ ಪಂಜರದೊಳಗೆ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0024-0026</page>
 				<allauthors>
 					<author>ಮಲ್ಲು ಸಿ ಕೊತ್ನೂರ್</author>
@@ -786,7 +786,7 @@
 			</entry>
 			<entry>
 				<title>ಶರೀಫನಿಗೆ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0027-0027</page>
 				<allauthors>
 					<author>ಶೆಂಕರ ಕಟಗಿ</author>
@@ -794,15 +794,15 @@
 			</entry>
 			<entry>
 				<title>ಶ್ರದ್ಧಾಂಜಲಿ</title>
-				<feature></feature>
-				<page>000028-0034</page>
+				<feature>ವಿಮರ್ಶೆ</feature>
+				<page>0028-0034</page>
 				<allauthors>
 					<author>ಉಷಾ ಸ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ವಿಕ್ಷಿಪ್ತಪ್ರಭೇದ: ಹೋಮೋ ಸೇಪಿಯನ್ಸ್</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0035-0047</page>
 				<allauthors>
 					<author>ಅರ್ಥರ ಕೊಸ್ಲರ್</author>
@@ -811,15 +811,15 @@
 			</entry>
 			<entry>
 				<title>ನನ್ನ ನೆನಪುಗಳು</title>
-				<feature></feature>
+				<feature>ಆತ್ಮಕಥನ</feature>
 				<page>0048-0058</page>
 				<allauthors>
 					<author>ಆನಂದಕಂದ </author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಹೊಸ ಓದು</title>
-				<feature></feature>
+				<title>ನವ್ಯ ಸಾಹಿತ್ಯ ದರ್ಶನ</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0059-0062</page>
 				<allauthors>
 					<author>ಬಸವರಾಜ ಸಬರದ ಡಾ||</author>
@@ -827,7 +827,7 @@
 			</entry>
 			<entry>
 				<title>ರಾಜ ಮತ್ತು ಹಕ್ಕಿ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0063-0067</page>
 				<allauthors>
 					<author>ಆನಂದ ಝಂಜರವಾಡ</author>
@@ -835,7 +835,7 @@
 			</entry>
 			<entry>
 				<title>ಹೆಜ್ಜೆ ಮೂಡಿದ ಹಾದಿ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0067-0069</page>
 				<allauthors>
 					<author>ಬಸವರಾಜು ಜೆ. ಪಿ</author>
@@ -843,7 +843,7 @@
 			</entry>
 			<entry>
 				<title>ಮೊದಲ ನೋಟ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0070-0073</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -851,7 +851,7 @@
 			</entry>
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0074-0076</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
