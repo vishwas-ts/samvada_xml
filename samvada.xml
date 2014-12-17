@@ -401,7 +401,7 @@
 		<part pnum="013" month="" year="">
 			<entry>
 				<title>ಹಿಂದು ಧರ್ಮ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0001-0019</page>
 				<allauthors>
 					<author>ರಾಂಮನೋಹರ ಲೋಹಿಯ</author>
@@ -410,7 +410,7 @@
 			</entry>
 			<entry>
 				<title>ಪ್ರಜಾಸತ್ತೆಗಾಗಿ ತಂತ್ರಜ್ಞಾನ*</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0020-0032</page>
 				<allauthors>
 					<author>ಶೂಮೇಕರ್ ಇ. ಎಫ್</author>
@@ -437,7 +437,7 @@
 			</entry>
 			<entry>
 				<title>ಬರೀ ನೆಗೆಟಿವ್‌ಗಳು</title>
-				<feature>ಕವಿತೆ</feature>
+				<feature>ಕವನ</feature>
 				<page>0038-0038</page>
 				<allauthors>
 					<author>ರಾಮಗಿರಿ ರವೀಂದ್ರ</author>
@@ -445,7 +445,7 @@
 			</entry>
 			<entry>
 				<title>ಪ್ರಶ್ನೆಗಳು</title>
-				<feature>ಕವಿತೆ</feature>
+				<feature>ಕವನ</feature>
 				<page>0039-0039</page>
 				<allauthors>
 					<author>ಪ್ರೇಮಲೀಲಾ ಹೆಚ್</author>
@@ -453,7 +453,7 @@
 			</entry>
 			<entry>
 				<title>ಧೂಳು</title>
-				<feature></feature>
+				<feature>ಕಥೆ</feature>
 				<page>0040-0045</page>
 				<allauthors>
 					<author>ಜಯಂತ ಕಾಯ್ಕಿಣಿ</author>
@@ -461,7 +461,7 @@
 			</entry>
 			<entry>
 				<title>ನನ್ನ ನೆನಪುಗಳು</title>
-				<feature></feature>
+				<feature>ಆತ್ಮಕಥನ</feature>
 				<page>0046-0056</page>
 				<allauthors>
 					<author>ಬೆಟಗೇರಿ ಕೃಷ್ಣಶರ್ಮ ಡಾ|| (ಆನಂದಕಂದ)</author>
@@ -479,7 +479,7 @@
 			</entry>
 			<entry>
 				<title>ಹೆಸರಲ್ಲಿ ಏನಿದೆ?</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0064-0068</page>
 				<allauthors>
 					<author>ಗೌರೀಶ ಕಾಯ್ಕಿಣಿ</author>
@@ -487,7 +487,7 @@
 			</entry>
 			<entry>
 				<title>ವಧು</title>
-				<feature>ಹೊಸಓದು</feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0069-0072</page>
 				<allauthors>
 					<author>ಅನುಪಮಾ ನಿರಂಜನ ಡಾ||</author>
@@ -495,7 +495,7 @@
 			</entry>
 			<entry>
 				<title>ಸಂಸ್ಕೃತಿ-ಧರ್ಮ-ಸಾಮಾಜಿಕ ಪರಿವರ್ತನೆ ಇತ್ಯಾದಿ...</title>
-				<feature>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0073-0078</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -503,7 +503,7 @@
 			</entry>
 			<entry>
 				<title>ಹೊಸ ಪುಸ್ತಕಗಳು</title>
-				<feature></feature>
+				<feature>ಪಟ್ಟಿ</feature>
 				<page>0079-0081</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -513,7 +513,7 @@
 		<part pnum="014" month="" year="">
 			<entry>
 				<title>ಐದು ಕವಿತೆಗಳು</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0001-0009</page>
 				<allauthors>
 					<author>ಸವಿತಾ ನಾಗಭೂಷಣ</author>
@@ -521,15 +521,15 @@
 			</entry>
 			<entry>
 				<title>ಕಾವ್ಯ ಕಮ್ಮಟ</title>
-				<feature></feature>
+				<feature>ಸಂದರ್ಶನ</feature>
 				<page>0010-0028</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature>ಸೃಜನಶೀಲತೆ ಮತ್ತು ಬಂಡಾಯ</feature>
+				<title>ಸೃಜನಶೀಲತೆ ಮತ್ತು ಬಂಡಾಯ</title>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0029-0034</page>
 				<allauthors>
 					<author>ಶಿವರಾಮ ಕಾರಂತ ಕೆ ಡಾ||</author>
@@ -537,7 +537,7 @@
 			</entry>
 			<entry>
 				<title>ಪರಿಸರ ಮತ್ತು ನಾವು</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0034-0044</page>
 				<allauthors>
 					<author>ಕೃಷ್ಣಾನಂದ ಕಾಮತ್ ಡಾ||</author>
@@ -545,7 +545,7 @@
 			</entry>
 			<entry>
 				<title>ಎರಡು ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0045-0047</page>
 				<allauthors>
 					<author>ದೇವನೂರ ಮಹಾದೇವ</author>
@@ -553,7 +553,7 @@
 			</entry>
 			<entry>
 				<title>ನನ್ನ ನೆನಪುಗಳು</title>
-				<feature></feature>
+				<feature>ಆತ್ಮಕಥನ</feature>
 				<page>0048-0057</page>
 				<allauthors>
 					<author>ಆನಂದಕಂದ</author>
@@ -561,7 +561,7 @@
 			</entry>
 			<entry>
 				<title>ಕನ್ನಡ ಜಾನಪದ : ಕೆಲವು ಮುಖಗಳು</title>
-				<feature>ಹೊಸ ಓದು</feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0058-0062</page>
 				<allauthors>
 					<author>ಸತ್ಯನಾಥ ಟಿ. ಎಸ್</author>
@@ -569,7 +569,7 @@
 			</entry>
 			<entry>
 				<title>ಸಿಂಧೂ ನದಿಯ ದಂಡೆಯ ಮೇಲೆ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0062-0064</page>
 				<allauthors>
 					<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
@@ -577,7 +577,7 @@
 			</entry>
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0065-0068</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -587,15 +587,15 @@
 		<part pnum="016" month="" year="">
 			<entry>
 				<title>ಕಥಾ ಕಮ್ಮಟ</title>
-				<feature></feature>
+				<feature>ಸಂದರ್ಶನ</feature>
 				<page>0003-0013</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಅರಬ್ಬೀ ಲೇಖಕ : ನಗೀಬ್ ಮಹಫುಜ್‌ರ ಪ್ರಪಂಚ</title>
-				<feature></feature>
+				<title>ಅರಬ್ಬೀ ಲೇಖಕ : ನಗೀಬ್ ಮಹಫುಜ್‌ರ ಪ್ರಪಂಚ</title
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0014-0024</page>
 				<allauthors>
 					<author>ಮಿತಾವ್ ಘೋಷ್</author>
@@ -603,15 +603,15 @@
 			</entry>
 			<entry>
 				<title>ಮೂರು ಕವಿತೆಗಳು</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0025-0034</page>
 				<allauthors>
 					<author>ಜಯರಾಮ ಕಾರಂತ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ವಿಜ಼ಾನದ ಅಧ್ಯಾತ್ಮ</title>
-				<feature></feature>
+				<title>ವಿಜ್ಞಾನದ ಅಧ್ಯಾತ್ಮ</title>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0035-0053</page>
 				<allauthors>
 					<author>ಫ್ರಿತೋ ಕಾಪ್ರಾ </author>
@@ -620,7 +620,7 @@
 			</entry>
 			<entry>
 				<title>ನನ್ನ ನೆನಪುಗಳು</title>
-				<feature></feature>
+				<feature>ಆತ್ಮಕಥನ</feature>
 				<page>0054-0059</page>
 				<allauthors>
 					<author>ಆನಂದಕಂದ</author>
@@ -628,7 +628,7 @@
 			</entry>
 			<entry>
 				<title>ಪುರುಷೋತ್ತಮ</title>
-				<feature>ಹೊಸ ಓದು</feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0060-0078</page>
 				<allauthors>
 					<author>ಯಶವಂತ ಚಿತ್ತಾಲ</author>
@@ -636,7 +636,7 @@
 			</entry>
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0079-0080</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -646,7 +646,7 @@
 		<part pnum="017" month="" year="">
 			<entry>
 				<title>ಎರಡು ಕವಿತೆಗಳು</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0003-0005</page>
 				<allauthors>
 					<author>ಹೇಮಾ ಪಟ್ಟಣಶೆಟ್ಟಿ</author>
@@ -654,7 +654,7 @@
 			</entry>
 			<entry>
 				<title>ಇನ್ನೆರಡು ಕವಿತೆಗಳು</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0006-0009</page>
 				<allauthors>
 					<author>ಬಸವರಾಜು ಜಿ. ಪಿ</author>
@@ -662,7 +662,7 @@
 			</entry>
 			<entry>
 				<title>ದಿನಚರಿ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0009-0012</page>
 				<allauthors>
 					<author>ಸವಿತಾ ನಾಗಭೂಷಣ</author>
@@ -670,7 +670,7 @@
 			</entry>
 			<entry>
 				<title>ಶಿಶಿರದ ಸದ್ದು</title>
-				<feature></feature>
+				<feature>ಕಥೆ</feature>
 				<page>0013-0030</page>
 				<allauthors>
 					<author>ಖುರ್ರಾತುಲ್‌ ಹೈದರ್</author>
@@ -678,16 +678,16 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಮರಾಠಿ ದಲಿತ ಸಾಹಿತ್ಯ:</title>
-				<feature></feature>
+				<title>ಮರಾಠಿ ದಲಿತ ಸಾಹಿತ್ಯ: ಎರಡು ಸಂದರ್ಶನಗಳು</title>
+				<feature>ಸಂದರ್ಶನ</feature>
 				<page>0031-0051</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಡಿ.ವಿ.ಜಿ.ಅವರ ಸಾಹಿತ್ಯ ವಿಮರ್ಶೆ</title>
-				<feature></feature>
+				<title>ಡಿ.ವಿ.ಜಿ ಅವರ ಸಾಹಿತ್ಯ ವಿಮರ್ಶೆ</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0052-0059</page>
 				<allauthors>
 					<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ</author>
@@ -695,23 +695,23 @@
 			</entry>
 			<entry>
 				<title>ನನ್ನ ನೆನಪುಗಳು</title>
-				<feature></feature>
+				<feature>ಆತ್ಮಕಥನ</feature>
 				<page>0060-0067</page>
 				<allauthors>
 					<author>ಆನಂದಕಂದ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಹೊಸ ಓದು</title>
-				<feature></feature>
+				<title>ಅಗ್ನಿಸ್ಥಂಭ (ಕವನ ಸಂಕಲನ)</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0067-0069</page>
 				<allauthors>
 					<author>ಉಷಾ ಸ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಕಲ್ಲುಕರಗುವ ಸಮಯ</title>
-				<feature></feature>
+				<title>ಕಲ್ಲು ಕರಗುವ ಸಮಯ</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0069-0071</page>
 				<allauthors>
 					<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
@@ -719,7 +719,7 @@
 			</entry>
 			<entry>
 				<title>ತಲೆದಂಡ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0072-0074</page>
 				<allauthors>
 					<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
@@ -727,7 +727,7 @@
 			</entry>
 			<entry>
 				<title>ಮೊದಲ ನೋಟ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0075-0078</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -735,7 +735,7 @@
 			</entry>
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0079-0080</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
