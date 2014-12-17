@@ -861,15 +861,15 @@
 		<part pnum="021" month="" year="">
 			<entry>
 				<title>ಸಂಗೀತಾಸ್ವಾದನೆಯ ಮೂಲತತ್ವಗಳು</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0003-0007</page>
 				<allauthors>
 					<author>ದಿವಾಕರ ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ನಾಲ್ಕು ಕಪ್ಪು ಕವಿ</title>
-				<feature></feature>
+				<title>ನಾಲ್ಕು ಕಪ್ಪು ಕವಿತೆಗಳು</title>
+				<feature>ಕವನ</feature>
 				<page>0008-0010</page>
 				<allauthors>
 					<author>ಇತಿಕಾ ಅಂತೊಲಿ</author>
@@ -878,23 +878,23 @@
 			</entry>
 			<entry>
 				<title>ಇನ್ನೆರಡು ಕವಿತೆಗಳು</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0011-0015</page>
 				<allauthors>
 					<author>ನಟರಾಜ ಕೆ. ಪಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>"ಅಸ್ತಿತ್ವವಾದ"</title>
-				<feature>ಪುಸ್ತಕ ಪರಿಚಯ</feature>
+				<title>ಕೆ. ವಿ. ತಿರುಮಲೇಶ್‌ರ "ಅಸ್ತಿತ್ವವಾದ"</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0016-0022</page>
 				<allauthors>
 					<author>ವಿಜಯಶಂಕರ ಎಸ್. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಕಮ್ಯುನಿಸಂ ನಂತರದ ಪ್ರಜಾಪ್ರಭುತ್ವ:</title>
-				<feature></feature>
+				<title>ಕಮ್ಯುನಿಸಂ ನಂತರದ ಪ್ರಜಾಪ್ರಭುತ್ವ: ಪ್ರಾಗ್‌ನಲ್ಲಿ ಕೆಲವು ಸಂವಾದಗಳು</title>
+				<feature>ಸಂವಾದ</feature>
 				<page>0023-0034</page>
 				<allauthors>
 					<author>ದಿಲೀಪ್ ಪಡಗಾಂವಕರ್</author>
@@ -902,8 +902,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಮ್ಯಾಗ್‌ಸೆಸೆ ಪ್ರಶಸ್ತಿಗೆ ಪ್ರತಿಸ್ಪಂದನ*</title>
-				<feature></feature>
+				<title>ಮ್ಯಾಗ್‌ಸೆಸೆ ಪ್ರಶಸ್ತಿಗೆ ಪ್ರತಿಸ್ಪಂದನ</title>
+				<feature>ಭಾಷಣ</feature>
 				<page>0035-0042</page>
 				<allauthors>
 					<author>ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ</author>
@@ -911,7 +911,7 @@
 			</entry>
 			<entry>
 				<title>ಮಾನವ ಜನ್ಮ ದೊಡ್ಡದು...?</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0043-0048</page>
 				<allauthors>
 					<author>ಶಿವರಾಮ ಕಾರಂತ ಕೆ ಡಾ||</author>
@@ -919,7 +919,7 @@
 			</entry>
 			<entry>
 				<title>ನನ್ನ ನೆನಪುಗಳು</title>
-				<feature></feature>
+				<feature>ಆತ್ಮಕಥನ</feature>
 				<page>0049-0058</page>
 				<allauthors>
 					<author>ಆನಂದಕಂದ</author>
@@ -927,15 +927,15 @@
 			</entry>
 			<entry>
 				<title>ವಿಮರ್ಶಾ ಕಮ್ಮಟ: ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0059-0063</page>
 				<allauthors>
 					<author>ಬಸವರಾಜ ವಕ್ಕುಂದ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಹೊಸಓದು</title>
-				<feature></feature>
+				<title>ಸಲೂನಿನಲ್ಲಿ ಹುಡುಗ</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0064-0067</page>
 				<allauthors>
 					<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
@@ -943,7 +943,7 @@
 			</entry>
 			<entry>
 				<title>ಹೊಸ ದಿಕ್ಕು</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0067-0070</page>
 				<allauthors>
 					<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
@@ -951,7 +951,7 @@
 			</entry>
 			<entry>
 				<title>ಮೊದಲ ನೋಟ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0070-0072</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -959,7 +959,7 @@
 			</entry>
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0073-0076</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
