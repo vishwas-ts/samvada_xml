@@ -968,8 +968,8 @@
 		</part>
 		<part pnum="022" month="" year="">
 			<entry>
-				<title>ನೊಬೆಲ್ ಪ್ರಶಸ್ತಿ ವಿಜೇತ ಲೇಖಕಿ</title>
-				<feature></feature>
+				<title>ನೊಬೆಲ್ ಪ್ರಶಸ್ತಿ ವಿಜೇತ ಲೇಖಕಿ ನ್ಯಾಡಿನ್‌ ಗಾರ್ಡಿಮರ್‌: ಒಂದು ಪರಿಚಯ</title>
+				<feature>ವ್ಯಕ್ತಿಪರಿಚಯ</feature>
 				<page>0003-0005</page>
 				<allauthors>
 					<author>ಉಷಾ ಸ</author>
@@ -977,7 +977,7 @@
 			</entry>
 			<entry>
 				<title> ಡೀಸಿಯಾದಿಂದ ಬಂದ ರೈಲು</title>
-				<feature></feature>
+				<feature>ಕಥೆ</feature>
 				<page>0005-0012</page>
 				<allauthors>
 					<author>ನ್ಯಾಡಿನ್ ಗಾರ್ಡಿಮರ್</author>
@@ -986,7 +986,7 @@
 			</entry>
 			<entry>
 				<title>ಮೂರು ಹಾಡುಗಳು</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0013-0020</page>
 				<allauthors>
 					<author>ಸವಿತಾ ನಾಗಭೂಷಣ</author>
@@ -994,15 +994,15 @@
 			</entry>
 			<entry>
 				<title>ಯುನೆಸ್ಕೋದಲ್ಲಿ ಜಾನಪದ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0021-0030</page>
 				<allauthors>
 					<author>ಶಂಕರನಾರಾಯಣ ತೀ. ನಂ ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಪುರಾಣ ಮತ್ತು ಆಧಿನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯ</title>
-				<feature></feature>
+				<title>ಪುರಾಣ ಮತ್ತು ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯ</title>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0031-0038</page>
 				<allauthors>
 					<author>ಲಕ್ಷ್ಮೀಶ ತೋಳ್ಪಾಡಿ</author>
@@ -1010,7 +1010,7 @@
 			</entry>
 			<entry>
 				<title>ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ಸೇರಿಬಿಟ್ಟಿರುವ ಬೇಚೈನು...</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0039-0048</page>
 				<allauthors>
 					<author>ಕಾನ್ರಾಡ್ ಲಾರೆಝ್</author>
@@ -1019,7 +1019,7 @@
 			</entry>
 			<entry>
 				<title>ಸಮಾಜವಾದದ ಕಾಲ ಮುಗಿಯತೆ?</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0049-0055</page>
 				<allauthors>
 					<author>ವೆಂಕಟೇಶಮೂರ್ತಿ ಆರ್. ಪಿ</author>
@@ -1027,15 +1027,15 @@
 			</entry>
 			<entry>
 				<title>ನನ್ನ ನೆನಪುಗಳು</title>
-				<feature></feature>
+				<feature>ಆತ್ಮಕಥನ</feature>
 				<page>0056-0063</page>
 				<allauthors>
 					<author>ಆನಂದಕಂದ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಹೊಸಓದು</title>
-				<feature></feature>
+				<title>ನಿಲುವು (ವಿಮರ್ಶೆ)</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0064-0067</page>
 				<allauthors>
 					<author>ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ ಡಾ||</author>
@@ -1043,7 +1043,7 @@
 			</entry>
 			<entry>
 				<title>ಪ್ರೇಯಸಿಗೆ ಪತ್ರಗಳು</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0067-0069</page>
 				<allauthors>
 					<author>ಉಷಾ ಸ</author>
@@ -1051,7 +1051,7 @@
 			</entry>
 			<entry>
 				<title>ಅರ್ಥ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0069-0072</page>
 				<allauthors>
 					<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
@@ -1059,7 +1059,7 @@
 			</entry>
 			<entry>
 				<title>ಮೊದಲ ನೋಟ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0073-0078</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -1067,7 +1067,7 @@
 			</entry>
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0079-0082</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
