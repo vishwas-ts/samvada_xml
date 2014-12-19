@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE samvada SYSTEM "samvada.dtd">
 <samvada>
-	<volume vnum="001">
+	<volume vnum="">
 		<part pnum="002" month="01-02" year"1987">
 	 		<entry>
 	 			<title>ತೇಜಸ್ವಿ ಸಂದರ್ಶನ</title>
@@ -1076,7 +1076,7 @@
 		</part>
 		<part pnum="023-024" month="" year="">
 			<entry>
-				<title>ಮಾಸ್ತಿ ಕಥಾಲೋಕ:ಒಂದು ಪ್ರವೇಶ</title>
+				<title>ಮಾಸ್ತಿ ಕಥಾಲೋಕ: ಒಂದು ಪ್ರವೇಶ</title>
 				<feature></feature>
 				<page>0001-0005</page>
 				<allauthors>
@@ -1084,7 +1084,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಸ್ಥತ್ಯಂತರಗಳ ಶತಮಾನದ ಕತೆಗಾರ ಮಾಸ್ತಿ</title>
+				<title>ಸ್ಥಿತ್ಯಂತರಗಳ ಶತಮಾನದ ಕತೆಗಾರ ಮಾಸ್ತಿ</title>
 				<feature></feature>
 				<page>0006-0018</page>
 				<allauthors>
