@@ -2,7 +2,7 @@
 <!DOCTYPE samvada SYSTEM "samvada.dtd">
 <samvada>
 	<volume vnum="">
-		<part pnum="002" month="01-02" year"1987">
+		<part pnum="002" month="01-02" year"1987" info="">
 	 		<entry>
 	 			<title>ತೇಜಸ್ವಿ ಸಂದರ್ಶನ</title>
 	 			<feature>ಸಂದರ್ಶನ</feature>
@@ -77,7 +77,7 @@
 	 			</allauthors>
 	 		</entry>
 	 	</part>
-		<part pnum="004" month="05-06" year="1987">
+		<part pnum="004" month="05-06" year="1987" info="">
 			<entry>
 				<title>ಗಾಂಧಿ ಗ್ರಹಿಸಿದ ಧರ್ಮ ಮತ್ತು ರಾಜಕಾರಣ</title>
 				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
@@ -170,7 +170,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="008" month="" year="">
+		<part pnum="008" month="" year="" info="">
 			<entry>
 				<title>ಕಾರಂತ ಸಂದರ್ಶನ</title>
 				<feature>ಸಂದರ್ಶನ</feature>
@@ -276,7 +276,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="011" month="" year="">
+		<part pnum="011" month="" year="" info="">
 			<entry>
 				<title>ನನ್ನ ನೆನಪುಗಳು</title>
 				<feature>ಆತ್ಮಕಥನ</feature>
@@ -398,7 +398,7 @@
 				</allauthors>
 			</entry>	
 		</part>
-		<part pnum="013" month="" year="">
+		<part pnum="013" month="" year="" info="">
 			<entry>
 				<title>ಹಿಂದು ಧರ್ಮ</title>
 				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
@@ -510,7 +510,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="014" month="" year="">
+		<part pnum="014" month="" year="" info="">
 			<entry>
 				<title>ಐದು ಕವಿತೆಗಳು</title>
 				<feature>ಕವನ</feature>
@@ -584,7 +584,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="016" month="" year="">
+		<part pnum="016" month="" year="" info="">
 			<entry>
 				<title>ಕಥಾ ಕಮ್ಮಟ</title>
 				<feature>ಸಂದರ್ಶನ</feature>
@@ -643,7 +643,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="017" month="" year="">
+		<part pnum="017" month="" year="" info="">
 			<entry>
 				<title>ಎರಡು ಕವಿತೆಗಳು</title>
 				<feature>ಕವನ</feature>
@@ -742,7 +742,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="020" month="" year="">
+		<part pnum="020" month="" year="" info="">
 			<entry>
 				<title>ಸುಮ್ಮನಿರುವ ಸುಮ್ಮಾನ: ತಾವೋನ ಪದ್ಯಗಳು</title>
 				<feature></feature>
@@ -858,7 +858,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="021" month="" year="">
+		<part pnum="021" month="" year="" info="">
 			<entry>
 				<title>ಸಂಗೀತಾಸ್ವಾದನೆಯ ಮೂಲತತ್ವಗಳು</title>
 				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
@@ -966,7 +966,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="022" month="" year="">
+		<part pnum="022" month="" year="" info="">
 			<entry>
 				<title>ನೊಬೆಲ್ ಪ್ರಶಸ್ತಿ ವಿಜೇತ ಲೇಖಕಿ ನ್ಯಾಡಿನ್‌ ಗಾರ್ಡಿಮರ್‌: ಒಂದು ಪರಿಚಯ</title>
 				<feature>ವ್ಯಕ್ತಿಪರಿಚಯ</feature>
@@ -1074,7 +1074,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="023-024" month="" year="">
+		<part pnum="023-024" month="" year="" info="ಮಾಸ್ತಿ ವಿಶೇಷ ಸಂಚಿಕೆ">
 			<entry>
 				<title>ಮಾಸ್ತಿ ಕಥಾಲೋಕ: ಒಂದು ಪ್ರವೇಶ</title>
 				<feature>ವಿಮರ್ಶೆ</feature>
@@ -1196,7 +1196,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="025" month="" year="">
+		<part pnum="025" month="" year="" info="">
 			<entry>
 				<title>ಮೂರು ಕವನಗಳು</title>
 				<feature>ಕವನ</feature>
@@ -1287,7 +1287,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="026-027" month="" year="">
+		<part pnum="026-027" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
 				<feature>ಟಿಪ್ಪಣಿ</feature>
@@ -1409,7 +1409,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="028" month="" year="">
+		<part pnum="028" month="" year="" info="">
 			<entry>
 				<title>‌‌ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
 				<feature>ಟಿಪ್ಪಣಿ</feature>
@@ -1420,15 +1420,15 @@
 			</entry>
 			<entry>
 				<title>ಮಾಸ್ತಿ: ಒಂದು ಸೃಜನಾತ್ಮಕ ನೆನಪು</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0005-0011</page>
 				<allauthors>
 					<author>ಚದುರಂಗ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>"ಚೆನ್ನಬಸವನಾಯಕ": ದೈವದ ಆಟ ಅಥವಾ ವಿಧಿವಿಲಾಸ...*</title>
-				<feature></feature>
+				<title>"ಚೆನ್ನಬಸವನಾಯಕ": ದೈವದ ಆಟ ಅಥವಾ ವಿಧಿವಿಲಾಸ...</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0012-0020</page>
 				<allauthors>
 					<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
@@ -1437,7 +1437,7 @@
 			</entry>
 			<entry>
 				<title>ಅಕ್ಕಮಹಾದೇವಿ: ಶರಣ ಚಳುವಳಿಯಲ್ಲೊಂದು ಭಿನ್ನಸ್ವರ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0021-0036</page>
 				<allauthors>
 					<author>ಶಿವರುದ್ರಪ್ಪ ಜಿ. ಎಸ್ ಡಾ||</author>
@@ -1445,7 +1445,7 @@
 			</entry>
 			<entry>
 				<title>(ಅ)ಪೂರ್ವರಂಗ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0037-0045</page>
 				<allauthors>
 					<author>ಪಟ್ಟಾಭಿರಾಮ ಸೋಮಯಾಜಿ ಎಚ್</author>
@@ -1454,7 +1454,7 @@
 			</entry>
 			<entry>
 				<title>ಐದು ಕವನಗಳು</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0046-0051</page>
 				<allauthors>
 					<author>ಕಮಲ ಎಂ. ಆರ್</author>
@@ -1462,31 +1462,31 @@
 			</entry>
 			<entry>
 				<title>ಅಡಿಗರ ಸಾವು</title>
-				<feature>ಶ್ರದ್ಧಾಂಜಲಿ</feature>
+				<feature>ಕವನ</feature>
 				<page>0052-0053</page>
 				<allauthors>
 					<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಅಡಿಗ:ಪೂರ್ಣ ಕಾವ್ಯ ವ್ಯಕ್ತಿತ್ವ</title>
-				<feature></feature>
+				<title>ಅಡಿಗ: ಪೂರ್ಣ ಕಾವ್ಯ ವ್ಯಕ್ತಿತ್ವ</title>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0054-0055</page>
 				<allauthors>
 					<author>ಮಂಜುನಾಥ ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ ಭಾರತೀಯ ಸಂಸ್ಕೃತಿಯ ವಿಶಿಷ್ಟ ಅಭಿವ್ಯಕ್ತಿ</title>
-				<feature></feature>
+				<title>ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ: ಭಾರತೀಯ ಸಂಸ್ಕೃತಿಯ ವಿಶಿಷ್ಟ ಅಭಿವ್ಯಕ್ತಿ</title>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0056-0065</page>
 				<allauthors>
 					<author>ರಾಮಚಂದ್ರದೇವ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಹೊಸಓದು</title>
-				<feature></feature>
+				<title>ಐದು ಸಮಾಜವಾದಿ ನಾಟಕಗಳು</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0066-0067</page>
 				<allauthors>
 					<author>ವಿಜಯಶಂಕರ ಎಸ್. ಆರ್</author>
@@ -1494,7 +1494,7 @@
 			</entry>
 			<entry>
 				<title>ಬಸವೇಶ್ವರ-ಅಂಬೇಡ್ಕರ್(ವಿಚಾರ)</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0068-0072</page>
 				<allauthors>
 					<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ ಸಿ. ವಿ ಡಾ||</author>
@@ -1502,7 +1502,7 @@
 			</entry>
 			<entry>
 				<title>ಲಂಗರು (ಕಥೆಗಳು)</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0072-0075</page>
 				<allauthors>
 					<author>ಬಸವರಾಜು ಜಿ. ಪಿ</author>
@@ -1510,7 +1510,7 @@
 			</entry>
 			<entry>
 				<title>ಮೊದಲ ನೋಟ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0075-0079</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -1518,25 +1518,25 @@
 			</entry>
 			<entry>
 				<title>ಪತ್ರಗಳು</title>
-				<feature></feature>
-				<page>0000-0000</page>
+				<feature>ಅಭಿಪ್ರಾಯ</feature>
+				<page>0079-0080</page>
 				<allauthors>
-					<author>ಶಿವರುದ್ರಪ್ಪ ಜಿ. ಎಸ್ ಡಾ||</author>
+					<author>ಹಲವರು</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="029-030" month="" year="">
+		<part pnum="029-030" month="" year="" info="ಕನ್ನಡ ಮಹಿಳಾ ಸಾಹಿತ್ಯ ವಿಶೇಷಾಂಕ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0001-0008</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಸ್ತ್ರೀವಾದೀ ದೃಷ್ಟಿಕೋನ:ಒಂದು ತಾತ್ವಿಕ ವಿವೇಚನೆ</title>
-				<feature></feature>
+				<title>ಸ್ತ್ರೀವಾದೀ ದೃಷ್ಟಿಕೋನ: ಒಂದು ತಾತ್ವಿಕ ವಿವೇಚನೆ</title>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0009-0017</page>
 				<allauthors>
 					<author>ನೇವಿ ಚಂದ್ರ</author>
@@ -1544,15 +1544,15 @@
 			</entry>
 			<entry>
 				<title>ಕಾದಂಬರಿ ಸಾಹಿತ್ಯ: ಮಹಿಳೆಯರ ಕೊಡುಗೆ</title>
-				<feature></feature>
-				<page>018-029</page>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
+				<page>0018-0029</page>
 				<allauthors>
 					<author>ವಿಜಯಶ್ರೀ ಸಬರದ ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಕಥಾ ಸಾಹಿತ್ಯ: ಮಹಿಳೆಯರ ಸಾಧನೆ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0030-0040</page>
 				<allauthors>
 					<author>ಸುಮಿತ್ರಾಬಾಯಿ ಬಿ. ಎನ್</author>
@@ -1560,23 +1560,23 @@
 			</entry>
 			<entry>
 				<title>ಮಹಿಳಾ ಕಾವ್ಯ: ಇತಿಹಾಸದ ಹೆಜ್ಜೆಗಳು </title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0041-0053</page>
 				<allauthors>
 					<author>ಚೆನ್ನಕ್ಕ ಎಲಿಗಾರ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>"ಆರ್ದ್ರ ಗರ್ವದ ಹುಡುಗಿ ನಮ್ಮ ಗೌರಿ":</title>
-				<feature></feature>
+				<title>"ಆರ್ದ್ರ ಗರ್ವದ ಹುಡುಗಿ ನಮ್ಮ ಗೌರಿ": ಸ್ತ್ರೀಕಾವ್ಯ ಕುರಿತಂತೆ ಕೆಲವು ಟಿಪ್ಪಣಿಗಳು</title>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0054-0058</page>
 				<allauthors>
 					<author>ಲಕ್ಷ್ಮೀಶ ತೋಳ್ಪಾಡಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>"ಭಕ್ತ ಕವಯಿತ್ರಿಯರು"*</title>
-				<feature></feature>
+				<title>"ಭಕ್ತ ಕವಯಿತ್ರಿಯರು"</title>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0059-0073</page>
 				<allauthors>
 					<author>ರಾಜಶೇಖರ ಜಿ</author>
@@ -1584,15 +1584,15 @@
 			</entry>
 			<entry>
 				<title>ಮಹಿಳಾ ಕಾವ್ಯ: ಒಂದು ಕಿರು ಟಿಪ್ಪಣಿ</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0074-0076</page>
 				<allauthors>
 					<author>ಬಿದರಹಳ್ಳಿ ನರಸಿಂಹಮೂರ್ತಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಬೀದಿ ನಾಟಕ:ನನ್ನ ಅನುಭವಗಳು</title>
-				<feature></feature>
+				<title>ಬೀದಿ ನಾಟಕ: ನನ್ನ ಅನುಭವಗಳು</title>
+				<feature>ಆತ್ಮಕಥನ</feature>
 				<page>0077-0086</page>
 				<allauthors>
 					<author>ವಿಜಯಾ</author>
@@ -1600,7 +1600,7 @@
 			</entry>
 			<entry>
 				<title>ಮಹಿಳಾ ಸಾಹಿತ್ಯ ಅಧ್ಯಯನ: ನಾಲ್ಕು ಮಹತ್ವದ ಪುಸ್ತಕಗಳು</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0087-0094</page>
 				<allauthors>
 					<author>ವಿಜಯಲಕ್ಷ್ಮಿ ಬಿ. ಎಸ್</author>
@@ -1608,7 +1608,7 @@
 			</entry>
 			<entry>
 				<title>ಮಹಿಳಾ ಪತ್ರಿಕೆಗಳು: ಒಂದು ನೋಟ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0095-0097</page>
 				<allauthors>
 					<author>ಚಂದ್ರಮತಿ ಸೋಂದಾ</author>
@@ -1616,7 +1616,7 @@
 			</entry>
 			<entry>
 				<title>ಆ ಕಾಲ...ಈ ಕಾಲ...</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0098-0101</page>
 				<allauthors>
 					<author>ಶಾಂತಾದೇವಿ ಕಣವಿ</author>
@@ -1624,7 +1624,7 @@
 			</entry>
 			<entry>
 				<title>ನಾನೇಕೆ ಹಾಸ್ಯ ಸಾಹಿತಿಯಾದೆ?</title>
-				<feature></feature>
+				<featur>ಆತ್ಮಕಥನ</feature>
 				<page>0102-0106</page>
 				<allauthors>
 					<author>ಸುನಂದಮ್ಮ ಟಿ</author>
@@ -1632,7 +1632,7 @@
 			</entry>
 			<entry>
 				<title>ನನ್ನ ಕೆಲವು ಸ್ತ್ರೀ ಪಾತ್ರಗಳು</title>
-				<feature></feature>
+				<feature>ಆತ್ಮಕಥನ</feature>
 				<page>0107-0113</page>
 				<allauthors>
 					<author>ಸಾರಾ ಅಬೂಬಕ್ಕರ್</author>
@@ -1640,7 +1640,7 @@
 			</entry>
 			<entry>
 				<title>ನಾನು ಕತೆಗಾರ್ತಿ ಆಗಿದ್ದು ಹೀಗೆ...</title>
-				<feature></feature>
+				<feature>ಆತ್ಮಕಥನ</feature>
 				<page>0114-0117</page>
 				<allauthors>
 					<author>ಭಾಗೀರಥಿ ಹೆಗಡೆ</author>
@@ -1648,7 +1648,7 @@
 			</entry>
 			<entry>
 				<title>ಕವಿತೆಯೆಂಬ ಮಾಯೆ</title>
-				<feature></feature>
+				<feature>ಕಥೆ</feature>
 				<page>0118-0121</page>
 				<allauthors>
 					<author>ಉಷಾ ಸ</author>
@@ -1656,7 +1656,7 @@
 			</entry>
 			<entry>
 				<title>ಮಹಿಳಾ ಸಾಹಿತ್ಯ: ಒಂದು ಹಿನ್ನೋಟ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0122-0126</page>
 				<allauthors>
 					<author>ಕಮಲಾ ಹಂಪನಾ</author>
@@ -1664,7 +1664,7 @@
 			</entry>
 			<entry>
 				<title>ಹದಿನೈದು ಕವನಗಳು</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0127-0146</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -1672,15 +1672,15 @@
 			</entry>
 			<entry>
 				<title>ಐದು ಗದ್ಯ ಭಾಗಗಳು</title>
-				<feature></feature>
+				<feature>ಕಥೆ</feature>
 				<page>0147-0160</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಹೊಸಓದು</title>
-				<feature></feature>
+				<title>ತುಂತರ ಹನಿಗಳು</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0161-0169</page>
 				<allauthors>
 					<author>ಉಷಾ ಸ</author>
@@ -1688,7 +1688,7 @@
 			</entry>
 			<entry>
 				<title>ಮತ್ತೆ ಬರೆದ ಕಥೆಗಳು</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0169-0172</page>
 				<allauthors>
 					<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
@@ -1696,14 +1696,14 @@
 			</entry>
 			<entry>
 				<title>ಮೊದಲ ನೋಟ</title>
-				<feature></feature>
+				<feature>ಪಟ್ಟಿ</feature>
 				<page>0173-0174</page>
 				<allauthors>
 					<author>ಲೀಲಾವತಿ ದೇವದಾಸ್ ಡಾ||</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="031" month="" year="">
+		<part pnum="031" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
 				<feature></feature>
@@ -1785,7 +1785,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="032-033" month="" year="">
+		<part pnum="032-033" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
 				<feature></feature>
@@ -1918,7 +1918,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="034" month="" year="">
+		<part pnum="034" month="" year="" info="">
 			<entry>
 				<title>ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಎಚ್ಚೆತ್ತ ಮಹಿಳೆ</title>
 				<feature></feature>
@@ -1994,7 +1994,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="035-036" month="" year="">
+		<part pnum="035-036" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು...</title>
 				<feature></feature>
@@ -2356,7 +2356,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="037" month="" year="">
+		<part pnum="037" month="" year="" info="">
 			<entry>
 				<title>ಕರ್ನಾಟಕ ಜಾನಪದ ಮತ್ತು ಲೋಕ ದೃಷ್ಟಿ</title>
 				<feature></feature>
@@ -2414,7 +2414,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="039" month="" year="">
+		<part pnum="039" month="" year="" info="">
 			<entry>
 				<title>ಮಾನುಷ ಕಲೆ ಮತ್ತು ನಿರ್ಮಾನುಷ ನಿಸರ್ಗ</title>
 				<feature></feature>
@@ -2505,7 +2505,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="040" month="" year="">
+		<part pnum="040" month="" year="" info="">
 			<entry>
 				<title>ಎಮರ್ಜನ್ಸಿಯ ನೆನಪು ಮತ್ತು ನನ್ನ ಭಾರತ ದೇಶ...</title>
 				<feature>ಪ್ರಸ್ತುತ</feature>
@@ -2612,7 +2612,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="041" month="" year="">
+		<part pnum="041" month="" year="" info="">
 			<entry>
 				<title>ಹನಿಯಿಂದ ಹರಿವ ನದಿ</title>
 				<feature>ಕಥೆ</feature>
@@ -2670,7 +2670,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="042" month="" year="">
+		<part pnum="042" month="" year="" info="">
 			<entry>
 				<title>ಶಿಕ್ಷೆ, ಕಾಯಕ ಮತ್ತು ಆಟ...</title>
 				<feature></feature>
@@ -2752,7 +2752,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="043" month="" year="">
+		<part pnum="043" month="" year="" info="">
 			<entry>
 				<title>ಭಾರತೀಯವೆನ್ನುವ ಒಂದು ಚಿಂತನಕ್ರಮ ಇದೆಯೇ?</title>
 				<feature></feature>
@@ -2803,7 +2803,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="044" month="" year="">
+		<part pnum="044" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</title>
 				<feature></feature>
@@ -2872,7 +2872,7 @@
 			<entry>
 				<title>ಪದಾರ್ಥ</title>
 				<feature></feature>
-				<page>057-066</page>
+				<page>0057-0066</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
 				</allauthors>
@@ -2902,7 +2902,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="045" month="" year="">
+		<part pnum="045" month="" year="" info="">
 			<entry>
 				<title>ಗಿರೀಶ ಕಾರ್ನಾಡರ ನಾಟಕಗಳಲ್ಲಿ ಜಾನಪದ ನಾಗಮಂಡಲದ ಅಭ್ಯಾಸ*</title>
 				<feature></feature>
@@ -3009,7 +3009,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="047" month="" year="">
+		<part pnum="047" month="" year="" info="">
 			<entry>
 				<title>ವ್ಯಾಜ್ಯ</title>
 				<feature>ಕಥೆ</feature>
@@ -3115,7 +3115,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="049" month="" year="">
+		<part pnum="049" month="" year="" info="">
 			<entry>
 				<title>ಕಲೆಯ ಕುರಿತು ಕಾರಂತರ ವಿಚಾರಗಳು ರಾಷ್ಟ್ರೀಯ ಕಲಾ ಇತಿಹಾಸದ ದ್ವಂದ್ವಗಳ ಮರು ಪರಿಶೀಲನೆ </title>
 				<feature></feature>
@@ -3206,7 +3206,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="050" month="" year="">
+		<part pnum="050" month="" year="" info="">
 			<entry>
 				<title>ಆರು ಕವಿತೆಗಳು</title>
 				<feature></feature>
@@ -3354,7 +3354,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="051" month="" year="">
+		<part pnum="051" month="" year="" info="">
 			<entry>
 				<title>ಕಾವ್ಯ</title>
 				<feature></feature>
@@ -3460,7 +3460,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="052" month="" year="">
+		<part pnum="052" month="" year="" info="">
 			<entry>
 				<title>ಎಚ್.ಎಸ್.ವೆಂಕಟೇಶಮೂರ್ತಿಯವರ ನಾಲ್ಕು ಹೊಸ ಕವಿತೆಗಳು </title>
 				<feature>ಕಾವ್ಯ</feature>
@@ -3576,7 +3576,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="053" month="" year="">
+		<part pnum="053" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು</title>
 				<feature></feature>
@@ -3699,7 +3699,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="054-055" month="" year="">
+		<part pnum="054-055" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು...</title>
 				<feature></feature>
@@ -3921,7 +3921,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="058" month="" year="">
+		<part pnum="058" month="" year="" info="">
 			<entry>
 				<title>ಕಾವ್ಯ</title>
 				<feature></feature>
@@ -4023,7 +4023,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="059" month="" year="">
+		<part pnum="059" month="" year="" info="">
 			<entry>
 				<title>ಕಾವ್ಯ:</title>
 				<feature></feature>
@@ -4105,7 +4105,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="060-061" month="" year="">
+		<part pnum="060-061" month="" year="" info="">
 			<entry>
 				<title>ಆರು ಕವಿತೆಗಳು</title>
 				<feature></feature>
