@@ -1820,7 +1820,7 @@
 			</entry>
 			<entry>
 				<title>'ಮಾತೃ' ಭಾಷೆಯಲ್ಲಿ ದೇವರನ್ನು ಕರೆದವರು...</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0007-0019</page>
 				<allauthors>
 					<author>ರಾಮಾಮಜನ್ ಎ. ಕೆ</author>
@@ -1829,7 +1829,7 @@
 			</entry>
 			<entry>
 				<title>ಹೆಣ್ಣಿನೊಳಗಿನ ಮರವ ಬಲ್ಲವನೆ ಜಾಣ..' ಎ.ಕೆ.ರಾಮನಂಜನ್ ಕಾವ್ಯಾನುಸಂಧಾನ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0020-0037</page>
 				<allauthors>
 					<author>ಕೀರ್ತಿನಾಥ ಕುರ್ತಕೋಟ ಪ್ರೊ||</author>
@@ -1837,7 +1837,7 @@
 			</entry>
 			<entry>
 				<title>ರಾಮಾನುಜನ್ನರ 'ತಿರುಗಿ ಬಂದೆ' ಕವನ ಒಂದು ಸ್ಥೂಲ ಪರಿಶೀಲನೆ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0038-0045</page>
 				<allauthors>
 					<author>ಲಕ್ಷ್ಮೀನಾರಾಯಣಭಟ್ಟ ಎನ್. ಎಸ್</author>
@@ -1845,7 +1845,7 @@
 			</entry>
 			<entry>
 				<title>ಕಥೆಹೇಳವ ಪರಂಪರೆಯ ಮುಂದುವರಿಕೆ 'ಪೋಕ್ ಟೇಲ್ಸ್ ಫ್ರಮ್ ಇಂಡಿಯ'</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0046-0049</page>
 				<allauthors>
 					<author>ಗಿರೀಶ ಕಾರ್ನಾಡ್</author>
@@ -1853,23 +1853,39 @@
 			</entry>
 			<entry>
 				<title>'ಮತ್ತೊಬ್ಬನ ಆತ್ಮ ಚರಿತ್ರೆ': ತಂತ್ರ ವಿನ್ಯಾಸ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0050-0060</page>
 				<allauthors>
 					<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಕಾವ್ಯ</title>
-				<feature></feature>
-				<page>0061-0069</page>
+				<title>ಅಸತ್ ಇರಲಿಲ್ಲ</title>
+				<feature>ಕವನ</feature>
+				<page>0061-0063</page>
+				<allauthors>
+					<author type="02">ಮಲ್ಲೇಪುರಂ ವಂಕಟೇಶ್‌ ಜಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸವಿತಾ ನಾಗಭೂಷಣ ಅವರ ಮೂರು ಕವಿತೆಗಳು</title>
+				<feature>ಕವನ</feature>
+				<page>0063-0066</page>
+				<allauthors>
+					<author>ಸಂಪಾದಕ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ ಅವರ ಎರಡು ಕವಿತೆಗಳು</title>
+				<feature>ಕವನ</feature>
+				<page>0066-0069</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಸಮಕಾಲೀನ ಅನುಭವದ ಗ್ರಹಿಕೆ ಹಾಗೂ ವೈಜ್ಞಾನಿಕ ಮನೋಧರ್ಮ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0070-0078</page>
 				<allauthors>
 					<author>ನಾಗಭೂಷಣ ಡಿ. ಎಸ್</author>
@@ -1877,16 +1893,16 @@
 			</entry>
 			<entry>
 				<title>'ಕಲಿಯುಗ' 'ಚಾಕರಿ' 'ಭಕ್ತಿ': ರಾಮಕೃಷ್ಣ ಮತ್ತು ಅವರ ಕಾಲ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0079-0111</page>
 				<allauthors>
-					<author>ಸುಮೀತ್ ಸರ್ಕಾರ್</author>
+					<author>ಸುಮೀತ್ ಸರ್ಕಾರ</author>
 					<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಭೂಗೋಲವನ್ನ ಹಸಿರಾಗಿಸುವುದು: ಜಾಗತಿಕ ಪರಿಸರ ಸಮತೋಲನದ ಸಂಘರ್ಷಗಳು</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0112-0117</page>
 				<allauthors>
 					<author>ವಂದನಾಶಿವ ಡಾ||</author>
@@ -1895,16 +1911,32 @@
 			</entry>
 			<entry>
 				<title>ನೆನಪ ಬುತ್ತಿಯ ಗಂಟು...</title>
-				<feature></feature>
+				<feature>ವ್ಯಕ್ತಿಪರಿಚಯ</feature>
 				<page>0118-0123</page>
 				<allauthors>
 					<author>ಬೆಳೆಗೆರೆ ಕೃಷ್ಣಶಾಸ್ತ್ರಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಹೊಸ ಓದು</title>
-				<feature></feature>
-				<page>0124-0134</page>
+				<title>ಮುಡಿ ಮಲ್ಲಿಗೆ</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
+				<page>0124-0128</page>
+				<allauthors>
+					<author>ಲಕ್ಷ್ಮಣರಾವ್ ಬಿ. ಆರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಾಸ್ತಿ ಸಾಹಿತ್ಯ ಸಮಗ್ರದರ್ಶನ</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
+				<page>0128-0130</page>
+				<allauthors>
+					<author>ಲಕ್ಷ್ಮಣರಾವ್ ಬಿ. ಆರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನನ್ನ ಕವಿತೆ ನನ್ನ ಹಾಗೆ</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
+				<page>0130-0134</page>
 				<allauthors>
 					<author>ಲಕ್ಷ್ಮಣರಾವ್ ಬಿ. ಆರ್</author>
 				</allauthors>
@@ -1919,7 +1951,7 @@
 			</entry>
 			<entry>
 				<title>ಭೂಮಧ್ಯರೇಖೆ(ಕವಿತೆ)</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0148-0152</page>
 				<allauthors>
 					<author>ಚಿಂತಾಮಣಿ ಕೊಡ್ಲೆಕೆರೆ</author>
@@ -1927,10 +1959,10 @@
 			</entry>
 			<entry>
 				<title>ಮೊದಲ ನೋಟ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0152-0160</page>
 				<allauthors>
-					<author>ಬಸವರಾಜ ಸಬರದ ಡಾ||</author>
+					<author>ಹಲವರು</author>
 				</allauthors>
 			</entry>
 			<entry>
