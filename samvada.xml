@@ -1706,15 +1706,15 @@
 		<part pnum="031" month="" year="" info="">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0003-0006</page>
 				<allauthors>
 					<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ರಿಗೊಬರ್ಟ್ ಮೆಂಚು : ಆರದ ಬೆಂಕಿ</title>
-				<feature></feature>
+				<title>ರಿಗೊಬರ್ಟ್ ಮೆಂಚು: ಆರದ ಬೆಂಕಿ</title>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0007-0012</page>
 				<allauthors>
 					<author>ಶಾಂತ ಬಿ. ಎನ್</author>
@@ -1722,23 +1722,47 @@
 			</entry>
 			<entry>
 				<title>'ಅಳಿದಮೇಲೆ' ಅರ್ಥ-ಪರಮಾರ್ಥದ ದ್ವಂದ್ವ ವಿನ್ಯಾಸ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0013-0021</page>
 				<allauthors>
 					<author>ಮಣಿಪಾಲ ಆರ್‌. ಕೆ ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಕಾವ್ಯ</title>
-				<feature></feature>
-				<page>0022-0030</page>
+				<title>ಹಸುಮಗಳ ಹಂಬಲ</title>
+				<feature>ಕವನ</feature>
+				<page>0022-0025</page>
+				<allauthors>
+					<author>ಹೇಮಾ ಪಟ್ಟಣಶೆಟ್ಟಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕವಿಯ ಕೊನೆಯ ದಿನಗಳು</title>
+				<feature>ಕವನ</feature>
+				<page>0025-0027</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ಟೋನ್‌ ಫ್ಲವರ್‌</title>
+				<feature>ಕವನ</feature>
+				<page>0028-0029</page>
+				<allauthors>
+					<author>ರಾಜೇಂದ್ರ ವಿ ಡಾ||‌</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಆತ ಹಾಗು ಈತ</title>
+				<feature>ಕವನ</feature>
+				<page>0029-0030</page>
 				<allauthors>
 					<author>ಶರಣು ಬಳಿಗೇರೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಅಕ್ಕಮಹಾದೇವಿ ವಚನಗಳಲ್ಲಿ-ಹೆಣ್ಣುತನ ಹಾಗೂ ಯಾತನೆಯ ಸ್ವರೂಪ</title>
-				<feature></feature>
+				<title>ಅಕ್ಕಮಹಾದೇವಿ ವಚನಗಳಲ್ಲಿ - ಹೆಣ್ಣುತನ ಹಾಗೂ ಯಾತನೆಯ ಸ್ವರೂಪ</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0031-0045</page>
 				<allauthors>
 					<author>ಚಂದ್ರಶೇಖರ ಟಿ. ಆರ್</author>
@@ -1746,7 +1770,7 @@
 			</entry>
 			<entry>
 				<title>ಬಸವಪೂರ್ವಯುಗ: ಒಂದು ಪರಿಚಯ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0046-0055</page>
 				<allauthors>
 					<author>ಪ್ರಭುಸ್ವಾಮಿ ಮಠ ಸಿ. ವಿ ಡಾ||</author>
@@ -1754,7 +1778,7 @@
 			</entry>
 			<entry>
 				<title>ನೆನಪ ಬುತ್ತಿಯ ಗಂಟು...</title>
-				<feature></feature>
+				<feature>ಕಥೆ</feature>
 				<page>0056-0065</page>
 				<allauthors>
 					<author>ಬೆಳಗೆರೆ ಕೃಷ್ಣಶಾಸ್ತ್ರಿ</author>
@@ -1762,15 +1786,15 @@
 			</entry>
 			<entry>
 				<title>ಬಸವಣ್ಣನವರ ಒಂದು ವಚನ ವಿಶ್ಲೇಷಣೆ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0066-0072</page>
 				<allauthors>
 					<author>ರಾಜಶೇಖರ ಎಸ್. ವಿ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಹೊಸ ಓದು</title>
-				<feature></feature>
+				<title>ಅಪರಾಧಂಗಳ ಮನ್ನಿಸೋ</title>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0072-0078</page>
 				<allauthors>
 					<author>ಬಸವರಾಜು ಜಿ. ಪಿ</author>
@@ -1778,24 +1802,24 @@
 			</entry>
 			<entry>
 				<title>ಪತ್ರಗಳು</title>
-				<feature></feature>
+				<feature>ಅಭಿಪ್ರಾಯ</feature>
 				<page>0078-0080</page>
 				<allauthors>
-					<author>ಸಂಪಾದಕ</author>
+					<author>ಹಲವರು</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="032-033" month="" year="" info="">
+		<part pnum="032-033" month="" year="" info="ಎ. ಕೆ. ರಾಮಾನುಜನ್‌ ಸ್ಮರಣೆ">
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0001-0006</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>'ಮಾತ್ ' ಭಾಷೆಯಲ್ಲಿ ದೇವರನ್ನು ಕರೆದವರು...</title>
+				<title>'ಮಾತೃ' ಭಾಷೆಯಲ್ಲಿ ದೇವರನ್ನು ಕರೆದವರು...</title>
 				<feature></feature>
 				<page>0007-0019</page>
 				<allauthors>
