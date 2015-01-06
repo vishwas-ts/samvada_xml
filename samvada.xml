@@ -2074,18 +2074,10 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="035-036" month="" year="" info="">
-			<entry>
-				<title>ಸಂಪಾದಕನ ಟಿಪ್ಪಣಿಗಳು...</title>
-				<feature></feature>
-				<page>000e-0001</page>
-				<allauthors>
-					<author>ಸಂಪಾದಕ</author>
-				</allauthors>
-			</entry>
+		<part pnum="035-036" month="" year="" info="ಕಾವ್ಯ ವಿಶೇಶಾಂಕ">
 			<entry>
 				<title>ಉಲಿಯ ಉಯ್ಯಲೆ ಅಭಿವ್ಯಕ್ತಿ-ಸ್ವರೂಪ ಮತ್ತು ಸಮಸ್ಯೆಗಳು</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0003-0012</page>
 				<allauthors>
 					<author>ನಾಗಭೂಷಣ ಸ್ವಾಮಿ ಓ. ಎಲ್</author>
@@ -2093,7 +2085,7 @@
 			</entry>
 			<entry>
 				<title>ಪುನರ್ಲಿಖಿತ ಭಾರತೀಯ ಕಾವ್ಯ ಶಾಸ್ತ್ರದತ್ತ...</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0012-0021</page>
 				<allauthors>
 					<author>ಕೃಷ್ಣರಾಯನ್ ಪ್ರೊ||</author>
@@ -2101,7 +2093,7 @@
 			</entry>
 			<entry>
 				<title>'ಪಿಂಛಾ ಆಡಿಸಬಾರದು'</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0022-0024</page>
 				<allauthors>
 					<author>ಮಂಜುನಾಥ್ ಎಸ್ </author>
@@ -2109,7 +2101,7 @@
 			</entry>
 			<entry>
 				<title>ಕನ್ನಡ ನವೋದಯದ ಪ್ರಕೃತಿದರ್ಶನ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0025-0036</page>
 				<allauthors>
 					<author>ನಾಗರಾಜ ಡಿ. ಆರ್ ಡಾ||</author>
@@ -2117,7 +2109,7 @@
 			</entry>
 			<entry>
 				<title>ಕನ್ನಡ ನವ್ಯಕವಿತೆಯಲ್ಲಿಯ ಮನೋಧರ್ಮ ಒಂದು ಟಿಪ್ಪಣಿ</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0037-0045</page>
 				<allauthors>
 					<author>ಶಾಂತಿನಾಥ ದೇಸಾಯಿ ಡಾ||</author>
@@ -2125,7 +2117,7 @@
 			</entry>
 			<entry>
 				<title>ಬಂಡಾಯ ಕಾವ್ಯ ಸ್ವರೂಪ ಒಂದು ಪರಿಚಯ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0046-0053</page>
 				<allauthors>
 					<author>ಮಣಿಪಾಲ ಆರ್‌. ‍ಕೆ ಡಾ||</author>
@@ -2133,15 +2125,15 @@
 			</entry>
 			<entry>
 				<title>ರಸಿಕ ಸ್ಪಂದನೆ...</title>
-				<feature></feature>
+				<feature>ಸಂದರ್ಶನ</feature>
 				<page>0054-0060</page>
 				<allauthors>
-					<author>ರಾಜೀವ ತಾರಾನಾಥ ಡಾ||</author>
+					<author>ಹಲವರು</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಕಾವ್ಯಮಾಧ್ಯಮನಾದ ಕವಿ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0061-0062</page>
 				<allauthors>
 					<author>ಅಂಬಿಕಾತನಯದತ್ತ</author>
@@ -2149,7 +2141,7 @@
 			</entry>
 			<entry>
 				<title>ಯಾವ ರೂಟ್ಸ್...? ಯಾರು ಅನುಮೋದಿಸುತ್ತಿರುವ ಸಂವಹನಶೀಲತೆ?</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0063-0066</page>
 				<allauthors>
 					<author>ತಿರುಮಲೇಶ್ ಕೆ. ವಿ ಡಾ||</author>
@@ -2157,7 +2149,7 @@
 			</entry>
 			<entry>
 				<title>ನವ್ಯತೆಯ ಗೀಳು...</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0067-0068</page>
 				<allauthors>
 					<author>ವೆಂಕಟೇಶ ಮೂರ್ತಿ ಎಚ್. ಎಸ್ ಡಾ||</author>
@@ -2165,7 +2157,7 @@
 			</entry>
 			<entry>
 				<title>ನನ್ನ ಕಾವ್ಯ ಪ್ರತಿಮೆಗಳು</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0069-0072</page>
 				<allauthors>
 					<author>ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
@@ -2173,7 +2165,7 @@
 			</entry>
 			<entry>
 				<title>ಕಾವ್ಯ ಕಾರಣ...</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0073-0075</page>
 				<allauthors>
 					<author>ಜಯಂತ ಕಾಯ್ಕಿಣಿ</author>
@@ -2181,7 +2173,7 @@
 			</entry>
 			<entry>
 				<title>ನಾನೇನೋ ನನ್ನ ಕಾವ್ಯವೂ ಅದೇ...</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0076-0077</page>
 				<allauthors>
 					<author>ಲಕ್ಷ್ಮಣರಾವ್ ಬಿ. ಆರ್</author>
@@ -2189,7 +2181,7 @@
 			</entry>
 			<entry>
 				<title>ಮುಟ್ಟಿ ಇಡುವ ಶಬ್ದ...ಸೋಸಿಹೋಗುವ ಸಿದ್ಧಾಂತ...</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0078-0079</page>
 				<allauthors>
 					<author>ಮಂಜುನಾಥ ಎಸ್</author>
@@ -2197,7 +2189,7 @@
 			</entry>
 			<entry>
 				<title>ನಾವೆ ಯಾವುದಕ್ಕಾ ಕಾವ್ಯ ಜಗಕೆ?</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0080-0086</page>
 				<allauthors>
 					<author>ವೈದೇ</author>
@@ -2205,7 +2197,7 @@
 			</entry>
 			<entry>
 				<title>ಕಾವ್ಯವೆಂದರೆ...</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0087-0088</page>
 				<allauthors>
 					<author>ಸವಿತಾ ನಾಗಭೂಷಣ</author>
@@ -2213,7 +2205,7 @@
 			</entry>
 			<entry>
 				<title>ನಾನು,ನನ್ನ ಕಾವ್ಯ...</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0089-0089</page>
 				<allauthors>
 					<author>ಆನಂದ ಝಂಜರವಾಡ</author>
@@ -2221,7 +2213,7 @@
 			</entry>
 			<entry>
 				<title>ಹಿಂಗೆ ಬದುಕುತ್ತಾ ಬರೆಯುತ್ತಿರುವಾಗ...</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0090-0092</page>
 				<allauthors>
 					<author>ಚಂದ್ರಶೇಖರ ತಾಳ್ಯ</author>
@@ -2229,7 +2221,7 @@
 			</entry>
 			<entry>
 				<title>ಮಿತವಾದ ಕ್ಷೇತ್ರದಲ್ಲಿ ಲಯಬದ್ಧ ಕುಣಿತ...</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0093-0094</page>
 				<allauthors>
 					<author>ಚಿಂತಾಮಣಿ ಕೊಡ್ಲೆಕೆರೆ</author>
@@ -2237,7 +2229,7 @@
 			</entry>
 			<entry>
 				<title>ಏನೋ ಹೇಳಬೇಕೆಂಬ ತಹ ತಹಿಕೆ...</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0095-0096</page>
 				<allauthors>
 					<author>ಸರಜೂ ಕಾಟ್ಕರ್</author>
@@ -2245,7 +2237,7 @@
 			</entry>
 			<entry>
 				<title>ಕಾವ್ಯ-ಸಂವಹನಶೀಲತೆ..ಇತ್ಯಾದಿ..</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0097-0098</page>
 				<allauthors>
 					<author>ಶಂಕರ ಕಟಗಿ</author>
@@ -2253,15 +2245,15 @@
 			</entry>
 			<entry>
 				<title>ಕಾವ್ಯ ಗುಚ್ಛ: ಇತ್ತೀಚಿನ ಕನ್ನಡ ಕಾವ್ಯ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0099-0099</page>
 				<allauthors>
 					<author>ಅಂಬಿಕಾತನಯದತ್ತ</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಅಚಾರ್ ಅಡಿಗ</title>
-				<feature></feature>
+				<title>ಅಚಾಯರ್ ಅಡಿಗ</title>
+				<feature>ಕವನ</feature>
 				<page>0101-0104</page>
 				<allauthors>
 					<author>ಬಸವರಾಜು ಜಿ. ಪಿ</author>
@@ -2269,7 +2261,7 @@
 			</entry>
 			<entry>
 				<title>ಈ ಕಾವ್ಯ ಗುಚ್ಛಕ್ಕೊಂದು ಚೌಕಟ್ಟು...</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0105-0110</page>
 				<allauthors>
 					<author>ರಾಘವೇಂದ್ರ ಪಾಟೀಲ</author>
@@ -2277,7 +2269,7 @@
 			</entry>
 			<entry>
 				<title>ಕೆ.ವಿ.ತಿರುಮಲೇಶ್</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0111-0119</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -2285,7 +2277,7 @@
 			</entry>
 			<entry>
 				<title>ಏನೀ ಅದ್ಭತವೇ!</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0119-0121</page>
 				<allauthors>
 					<author>ಲಕ್ಷ್ಮಣರಾವ್ ಬಿ. ಆರ್</author>
@@ -2293,7 +2285,7 @@
 			</entry>
 			<entry>
 				<title>ಒಂದು ಮರ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0122-0126</page>
 				<allauthors>
 					<author>ಸುಬ್ರಾಯ ಚೊಕ್ಕಾಡಿ</author>
@@ -2301,7 +2293,7 @@
 			</entry>
 			<entry>
 				<title>ಹಾಡೆ ಹನುಮವ್ವಾ...</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0126-0129</page>
 				<allauthors>
 					<author>ಸವಿತಾ ನಾಗಭೂಷಣ</author>
@@ -2309,7 +2301,7 @@
 			</entry>
 			<entry>
 				<title>ಗಗನ ಚುಕ್ಕಿ-ಪರ್ಣಕುಟಿ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0130-0133</page>
 				<allauthors>
 					<author>ವೈದೇಹಿ</author>
@@ -2317,7 +2309,7 @@
 			</entry>
 			<entry>
 				<title>ಪೂರಕೆ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0133-0134</page>
 				<allauthors>
 					<author>ಮಂಜುನಾಥ ಎಸ್</author>
@@ -2325,7 +2317,7 @@
 			</entry>
 			<entry>
 				<title>'ತೃಪ್ತಿ-ರುಚಿ'</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0134-0136</page>
 				<allauthors>
 					<author>ಆನಂದ ಝಂಜರವಾಡ</author>
@@ -2333,7 +2325,7 @@
 			</entry>
 			<entry>
 				<title>ನಿಮಿತ್ತ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0136-0138</page>
 				<allauthors>
 					<author>ಜಯಂತ ಕಾಯ್ಕಿಣಿ</author>
@@ -2341,7 +2333,7 @@
 			</entry>
 			<entry>
 				<title>ನಾವು ಹುಡುಗಿಯರೇ ಹೀಗೆ....</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0138-0141</page>
 				<allauthors>
 					<author>ಪ್ರತಿಭಾ ನಂದಕುಮಾರ</author>
@@ -2349,7 +2341,7 @@
 			</entry>
 			<entry>
 				<title>ಇದಿಮಾಯಿ ತಾಯಿ ಹಾಡು</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0142-0145</page>
 				<allauthors>
 					<author>ಶಂಕರ ಕಟಗಿ</author>
@@ -2357,7 +2349,7 @@
 			</entry>
 			<entry>
 				<title>ಬಕಾಲ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0145-0147</page>
 				<allauthors>
 					<author>ಸಿದ್ದಯ್ಯ ಕೆ. ಬಿ</author>
@@ -2365,7 +2357,7 @@
 			</entry>
 			<entry>
 				<title>ಹೀಗೇಕಾಯಿತು?</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0147-0149</page>
 				<allauthors>
 					<author>ಮುಕ್ತಯಕ್ಕ ಎಚ್. ಎಸ್</author>
@@ -2373,7 +2365,7 @@
 			</entry>
 			<entry>
 				<title>ಹೊಸ ಹುಟ್ಟು</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0149-0151</page>
 				<allauthors>
 					<author>ಹೇಮಾ ಪಟ್ಟಣಶೆಟ್ಟಿ</author>
@@ -2381,7 +2373,7 @@
 			</entry>
 			<entry>
 				<title>ಹೋಮಾ ಎಂಬ ಪಕ್ಷಿ*</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0152-0154</page>
 				<allauthors>
 					<author>ಭೀಮನಗೌಡರ ಎಚ್. ಎಸ್</author>
@@ -2389,7 +2381,7 @@
 			</entry>
 			<entry>
 				<title>"ರಿಪಬ್ಲಕ್ ನರ್ಸಿಂಗ್ ಹೋಂ"ನ ಲೇಬರ್ ವಾರ್ಡ್</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0154-0157</page>
 				<allauthors>
 					<author>‌ಕಮಲ ಎಂ. ಆರ್</author>
@@ -2397,7 +2389,7 @@
 			</entry>
 			<entry>
 				<title>ಮರದ ಗಟ್ಟಿತನ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0157-0159</page>
 				<allauthors>
 					<author>ಚಿಂತಾಮಣಿ ಕೊಡ್ಲೆಕೆರೆ</author>
@@ -2405,7 +2397,7 @@
 			</entry>
 			<entry>
 				<title>ಬರಲಾರೆ ಅನ್ನದಿರು</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0159-0160</page>
 				<allauthors>
 					<author>ರಘುನಾಥ ಸ</author>
@@ -2413,7 +2405,7 @@
 			</entry>
 			<entry>
 				<title>ವಸಂತಕ್ಕೆ ಒಪ್ಪದ ಹಾಡು; ಅಥವಾ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0160-0162</page>
 				<allauthors>
 					<author>ಲಕ್ಷ್ಮೀಶ ತೊಳ್ಪಾಡಿ</author>
@@ -2421,7 +2413,7 @@
 			</entry>
 			<entry>
 				<title>ಮೂರನೆಯ ಜನಮ ಬೇಡ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0162-0163</page>
 				<allauthors>
 					<author>ಕನಕ ಹಾ. ಮ</author>
@@ -2429,7 +2421,7 @@
 			</entry>
 			<entry>
 				<title>ನನ್ನದೆಂಬ ಧಾವಂತ</title>
-				<feature></feature>
+				<feature>ಕವನ</feature>
 				<page>0163-0163</page>
 				<allauthors>
 					<author>ಮುಕುಂದರಾಜ್ ಎಲ್. ಎನ್</author>
