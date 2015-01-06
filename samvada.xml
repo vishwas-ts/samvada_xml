@@ -1977,23 +1977,47 @@
 		<part pnum="034" month="" year="" info="">
 			<entry>
 				<title>ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಎಚ್ಚೆತ್ತ ಮಹಿಳೆ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0001-0018</page>
 				<allauthors>
 					<author>ರಾಘವೇಂದ್ರ ರಾವ್ ಎಚ್. ಎಸ್ ಡಾ||</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ಕಾವ್ಯ</title>
-				<feature></feature>
-				<page>0019-0024</page>
+				<title>ಲಾಲ್‌ಬಾಗ್‌</title>
+				<feature>ಕವನ</feature>
+				<page>0019-0021</page>
 				<allauthors>
-					<author>ಸಂಪಾದಕ</author>
+					<author>ಬಸವರಾಜು ಜಿ. ಪಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬೆಳಗು; ರಂಗೋಲಿ ಮತ್ತು ಮಗಳು</title>
+				<feature>ಕವನ</feature>
+				<page>0021-0023</page>
+				<allauthors>
+					<author>ಶಂಕರ ಕಟಗಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅವಸ್ಥೆ</title>
+				<feature>ಕವನ</feature>
+				<page>0023-0024</page>
+				<allauthors>
+					<author>ಸಿದ್ಧೇಶ್ವರಯ್ಯ ಎಂ. ಎಚ್‌</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಭಿನ್ನ</title>
+				<feature>ಕವನ</feature>
+				<page>0023-0024</page>
+				<allauthors>
+					<author>ಭಗವತಿ ಎಂ. ಆರ್</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ವಚನ ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ಮಹಿಳೆ: ಇನ್ನೊಂದು ಟಿಪ್ಪಣಿ</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0025-0028</page>
 				<allauthors>
 					<author>ಚಂದ್ರಶೇಖರ ಟಿ. ಆರ್</author>
@@ -2001,7 +2025,7 @@
 			</entry>
 			<entry>
 				<title>ಬಿರ್‍ಯೂಕ್</title>
-				<feature></feature>
+				<feature>ಕಥೆ</feature>
 				<page>0029-0037</page>
 				<allauthors>
 					<author>ಐನಾನ್ ತುರ್ಗಿನೇವ್</author>
@@ -2010,7 +2034,7 @@
 			</entry>
 			<entry>
 				<title>ಪ್ರಾಚೀನ ಭಾರತದಲ್ಲಿ ವಿಜ್ಙಾನ ಮತ್ತು ಸಮಾಜ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0038-0055</page>
 				<allauthors>
 					<author>ವೇಣುಗೋಪಾಲ ಟಿ. ಎಸ್</author>
@@ -2018,7 +2042,7 @@
 			</entry>
 			<entry>
 				<title>ಕಲಿಯುಗ ಚಾಕರಿ ಮತ್ತು ಭಕ್ತಿ: ರಾಮಕೃಷ್ಣ ಮತ್ತು ಅವರ ಕಾಲ</title>
-				<feature></feature>
+				<feature>ವೈಚಾರಿಕ ಲೇಖನ</feature>
 				<page>0056-0072</page>
 				<allauthors>
 					<author>ಸುಮೀತ್ ಸರ್ಕಾರ್</author>
@@ -2027,7 +2051,7 @@
 			</entry>
 			<entry>
 				<title>ಮೊದಲ ನೋಟ</title>
-				<feature></feature>
+				<feature>ವಿಮರ್ಶೆ</feature>
 				<page>0073-0078</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
@@ -2035,15 +2059,15 @@
 			</entry>
 			<entry>
 				<title>ಪತ್ರಗಳು</title>
-				<feature></feature>
+				<feature>ಅನಿಸಿಕೆ</feature>
 				<page>0078-0079</page>
 				<allauthors>
-					<author>ಸಂಪಾದಕ</author>
+					<author>ಹಲವರು</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿಗಳು</title>
-				<feature></feature>
+				<feature>ಟಿಪ್ಪಣಿ</feature>
 				<page>0080-0083</page>
 				<allauthors>
 					<author>ಸಂಪಾದಕ</author>
